@@ -1,0 +1,2395 @@
+State Name,State Code,Indicator Name,Value
+Alabama,AL,Shield Law,FALSE
+Alabama,AL,Gender Marker on ID (adult),0
+Alabama,AL,Gender Marker on ID (minor),0
+Alabama,AL,Gender Marker options on ID,FALSE
+Alabama,AL,Gender Marker on Birth Certificate (adult),-1
+Alabama,AL,Gender Marker on Birth Certificate (minor),-1
+Alabama,AL,Gender Marker options on Birth Certificate,FALSE
+Alabama,AL,Name Change (adult),1
+Alabama,AL,Name Change (minor),0
+Alabama,AL,Non Discrimination,-1
+Alabama,AL,Foster Care Non Discrimination,FALSE
+Alabama,AL,Adoption Nondiscrimination,FALSE
+Alabama,AL,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Alabama,AL,Recognition of assisted Reproduction,FALSE
+Alabama,AL,VAP for Non-Genetic LGBTQ Parents,FALSE
+Alabama,AL,Gender Inclusive Bathroom Laws (Adult),FALSE
+Alabama,AL,Gender Inclusive Bathroom Laws (minor),FALSE
+Alabama,AL,LGBTQ Inclusive Curriculum,FALSE
+Alabama,AL,Anti-Bullying Legal Protections for TGNC* students,0
+Alabama,AL,Non-discrimination  Protections for LGBTQ Students,0
+Alabama,AL,Gay/ Trans Panic Defense Ban,FALSE
+Alabama,AL,Hate Crime Laws Specific to Gender Identity,FALSE
+Alabama,AL,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Alabama,AL,Gender Inclusive Correctional Housing ,FALSE
+Alabama,AL,Gender Affirming Care in Correctional Facilities,FALSE
+Alabama,AL,Trans Bathroom Ban K-12,-1
+Alabama,AL,Trans Bathroom Ban in Schools and Government Buildings,0
+Alabama,AL,State Defines Sex,0
+Alabama,AL,Broad ‘RFRA’,-1
+Alabama,AL,Religious Exemption for Child Welfare,-1
+Alabama,AL,Religious Exemption for Medical Professionals,-1
+Alabama,AL,Marriage Services and/or Marriage License Denial,0
+Alabama,AL,Drag Ban,0
+Alabama,AL,Don’t Say Gay,-1
+Alabama,AL,Specific Subject Restrictions,0
+Alabama,AL,Parental Notification (opt-in or opt-out),0
+Alabama,AL,Sports Ban,-1
+Alabama,AL,Forced Outing in Schools,-1
+Alabama,AL,Ban on Best Practice Medical Care for Trans Youth,-1
+Alabama,AL,Barriers to Identity Documents,0
+Alabama,AL,Abortion Access,-1
+Alabama,AL,Interstate Abortion Shield Law,FALSE
+Alaska,AK,Shield Law,FALSE
+Alaska,AK,Gender Marker on ID (adult),0.5
+Alaska,AK,Gender Marker on ID (minor),0.5
+Alaska,AK,Gender Marker options on ID,FALSE
+Alaska,AK,Gender Marker on Birth Certificate (adult),0.5
+Alaska,AK,Gender Marker on Birth Certificate (minor),0.5
+Alaska,AK,Gender Marker options on Birth Certificate,FALSE
+Alaska,AK,Name Change (adult),0
+Alaska,AK,Name Change (minor),0
+Alaska,AK,Non Discrimination,0.5
+Alaska,AK,Foster Care Non Discrimination,FALSE
+Alaska,AK,Adoption Nondiscrimination,FALSE
+Alaska,AK,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Alaska,AK,Recognition of assisted Reproduction,FALSE
+Alaska,AK,VAP for Non-Genetic LGBTQ Parents,FALSE
+Alaska,AK,Gender Inclusive Bathroom Laws (Adult),FALSE
+Alaska,AK,Gender Inclusive Bathroom Laws (minor),TRUE
+Alaska,AK,LGBTQ Inclusive Curriculum,FALSE
+Alaska,AK,Anti-Bullying Legal Protections for TGNC* students,0
+Alaska,AK,Non-discrimination  Protections for LGBTQ Students,0
+Alaska,AK,Gay/ Trans Panic Defense Ban,FALSE
+Alaska,AK,Hate Crime Laws Specific to Gender Identity,FALSE
+Alaska,AK,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Alaska,AK,Gender Inclusive Correctional Housing ,FALSE
+Alaska,AK,Gender Affirming Care in Correctional Facilities,FALSE
+Alaska,AK,Trans Bathroom Ban K-12,0
+Alaska,AK,Trans Bathroom Ban in Schools and Government Buildings,0
+Alaska,AK,State Defines Sex,0
+Alaska,AK,Broad ‘RFRA’,0
+Alaska,AK,Religious Exemption for Child Welfare,0
+Alaska,AK,Religious Exemption for Medical Professionals,0
+Alaska,AK,Marriage Services and/or Marriage License Denial,0
+Alaska,AK,Drag Ban,0
+Alaska,AK,Don’t Say Gay,0
+Alaska,AK,Specific Subject Restrictions,0
+Alaska,AK,Parental Notification (opt-in or opt-out),0
+Alaska,AK,Sports Ban,-1
+Alaska,AK,Forced Outing in Schools,0
+Alaska,AK,Ban on Best Practice Medical Care for Trans Youth,0
+Alaska,AK,Barriers to Identity Documents,0
+Alaska,AK,Abortion Access,0.5
+Alaska,AK,Interstate Abortion Shield Law,FALSE
+Arizona,AZ,Shield Law,TRUE
+Arizona,AZ,Gender Marker on ID (adult),0
+Arizona,AZ,Gender Marker on ID (minor),0
+Arizona,AZ,Gender Marker options on ID,FALSE
+Arizona,AZ,Gender Marker on Birth Certificate (adult),-1
+Arizona,AZ,Gender Marker on Birth Certificate (minor),-1
+Arizona,AZ,Gender Marker options on Birth Certificate,FALSE
+Arizona,AZ,Name Change (adult),0.5
+Arizona,AZ,Name Change (minor),0.5
+Arizona,AZ,Non Discrimination,0
+Arizona,AZ,Foster Care Non Discrimination,FALSE
+Arizona,AZ,Adoption Nondiscrimination,FALSE
+Arizona,AZ,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Arizona,AZ,Recognition of assisted Reproduction,FALSE
+Arizona,AZ,VAP for Non-Genetic LGBTQ Parents,FALSE
+Arizona,AZ,Gender Inclusive Bathroom Laws (Adult),FALSE
+Arizona,AZ,Gender Inclusive Bathroom Laws (minor),FALSE
+Arizona,AZ,LGBTQ Inclusive Curriculum,FALSE
+Arizona,AZ,Anti-Bullying Legal Protections for TGNC* students,0
+Arizona,AZ,Non-discrimination  Protections for LGBTQ Students,0
+Arizona,AZ,Gay/ Trans Panic Defense Ban,FALSE
+Arizona,AZ,Hate Crime Laws Specific to Gender Identity,FALSE
+Arizona,AZ,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Arizona,AZ,Gender Inclusive Correctional Housing ,FALSE
+Arizona,AZ,Gender Affirming Care in Correctional Facilities,FALSE
+Arizona,AZ,Trans Bathroom Ban K-12,0
+Arizona,AZ,Trans Bathroom Ban in Schools and Government Buildings,0
+Arizona,AZ,State Defines Sex,0
+Arizona,AZ,Broad ‘RFRA’,-1
+Arizona,AZ,Religious Exemption for Child Welfare,-1
+Arizona,AZ,Religious Exemption for Medical Professionals,0
+Arizona,AZ,Marriage Services and/or Marriage License Denial,0
+Arizona,AZ,Drag Ban,0
+Arizona,AZ,Don’t Say Gay,0
+Arizona,AZ,Specific Subject Restrictions,0
+Arizona,AZ,Parental Notification (opt-in or opt-out),-1
+Arizona,AZ,Sports Ban,-1
+Arizona,AZ,Forced Outing in Schools,-0.5
+Arizona,AZ,Ban on Best Practice Medical Care for Trans Youth,-1
+Arizona,AZ,Barriers to Identity Documents,0
+Arizona,AZ,Abortion Access,0.5
+Arizona,AZ,Interstate Abortion Shield Law,FALSE
+Arkansas,AR,Shield Law,FALSE
+Arkansas,AR,Gender Marker on ID (adult),1
+Arkansas,AR,Gender Marker on ID (minor),1
+Arkansas,AR,Gender Marker options on ID,TRUE
+Arkansas,AR,Gender Marker on Birth Certificate (adult),-1
+Arkansas,AR,Gender Marker on Birth Certificate (minor),-1
+Arkansas,AR,Gender Marker options on Birth Certificate,FALSE
+Arkansas,AR,Name Change (adult),1
+Arkansas,AR,Name Change (minor),1
+Arkansas,AR,Non Discrimination,-1
+Arkansas,AR,Foster Care Non Discrimination,FALSE
+Arkansas,AR,Adoption Nondiscrimination,FALSE
+Arkansas,AR,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Arkansas,AR,Recognition of assisted Reproduction,FALSE
+Arkansas,AR,VAP for Non-Genetic LGBTQ Parents,FALSE
+Arkansas,AR,Gender Inclusive Bathroom Laws (Adult),FALSE
+Arkansas,AR,Gender Inclusive Bathroom Laws (minor),FALSE
+Arkansas,AR,LGBTQ Inclusive Curriculum,FALSE
+Arkansas,AR,Anti-Bullying Legal Protections for TGNC* students,1
+Arkansas,AR,Non-discrimination  Protections for LGBTQ Students,0
+Arkansas,AR,Gay/ Trans Panic Defense Ban,FALSE
+Arkansas,AR,Hate Crime Laws Specific to Gender Identity,FALSE
+Arkansas,AR,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Arkansas,AR,Gender Inclusive Correctional Housing ,FALSE
+Arkansas,AR,Gender Affirming Care in Correctional Facilities,FALSE
+Arkansas,AR,Trans Bathroom Ban K-12,-1
+Arkansas,AR,Trans Bathroom Ban in Schools and Government Buildings,0
+Arkansas,AR,State Defines Sex,0
+Arkansas,AR,Broad ‘RFRA’,-1
+Arkansas,AR,Religious Exemption for Child Welfare,0
+Arkansas,AR,Religious Exemption for Medical Professionals,-1
+Arkansas,AR,Marriage Services and/or Marriage License Denial,0
+Arkansas,AR,Drag Ban,0
+Arkansas,AR,Don’t Say Gay,-1
+Arkansas,AR,Specific Subject Restrictions,0
+Arkansas,AR,Parental Notification (opt-in or opt-out),-1
+Arkansas,AR,Sports Ban,-1
+Arkansas,AR,Forced Outing in Schools,0
+Arkansas,AR,Ban on Best Practice Medical Care for Trans Youth,-1
+Arkansas,AR,Barriers to Identity Documents,0
+Arkansas,AR,Abortion Access,-1
+Arkansas,AR,Interstate Abortion Shield Law,FALSE
+California,CA,Shield Law,TRUE
+California,CA,Gender Marker on ID (adult),1
+California,CA,Gender Marker on ID (minor),1
+California,CA,Gender Marker options on ID,TRUE
+California,CA,Gender Marker on Birth Certificate (adult),1
+California,CA,Gender Marker on Birth Certificate (minor),1
+California,CA,Gender Marker options on Birth Certificate,TRUE
+California,CA,Name Change (adult),1
+California,CA,Name Change (minor),1
+California,CA,Non Discrimination,1
+California,CA,Foster Care Non Discrimination,TRUE
+California,CA,Adoption Nondiscrimination,TRUE
+California,CA,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+California,CA,Recognition of assisted Reproduction,TRUE
+California,CA,VAP for Non-Genetic LGBTQ Parents,TRUE
+California,CA,Gender Inclusive Bathroom Laws (Adult),TRUE
+California,CA,Gender Inclusive Bathroom Laws (minor),TRUE
+California,CA,LGBTQ Inclusive Curriculum,TRUE
+California,CA,Anti-Bullying Legal Protections for TGNC* students,1
+California,CA,Non-discrimination  Protections for LGBTQ Students,1
+California,CA,Gay/ Trans Panic Defense Ban,TRUE
+California,CA,Hate Crime Laws Specific to Gender Identity,TRUE
+California,CA,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+California,CA,Gender Inclusive Correctional Housing ,TRUE
+California,CA,Gender Affirming Care in Correctional Facilities,TRUE
+California,CA,Trans Bathroom Ban K-12,0
+California,CA,Trans Bathroom Ban in Schools and Government Buildings,0
+California,CA,State Defines Sex,0
+California,CA,Broad ‘RFRA’,0
+California,CA,Religious Exemption for Child Welfare,0
+California,CA,Religious Exemption for Medical Professionals,0
+California,CA,Marriage Services and/or Marriage License Denial,0
+California,CA,Drag Ban,0
+California,CA,Don’t Say Gay,0
+California,CA,Specific Subject Restrictions,0
+California,CA,Parental Notification (opt-in or opt-out),0
+California,CA,Sports Ban,0
+California,CA,Forced Outing in Schools,0
+California,CA,Ban on Best Practice Medical Care for Trans Youth,0
+California,CA,Barriers to Identity Documents,0
+California,CA,Abortion Access,1
+California,CA,Interstate Abortion Shield Law,TRUE
+Colorado,CO,Shield Law,TRUE
+Colorado,CO,Gender Marker on ID (adult),1
+Colorado,CO,Gender Marker on ID (minor),0.5
+Colorado,CO,Gender Marker options on ID,TRUE
+Colorado,CO,Gender Marker on Birth Certificate (adult),1
+Colorado,CO,Gender Marker on Birth Certificate (minor),0.5
+Colorado,CO,Gender Marker options on Birth Certificate,TRUE
+Colorado,CO,Name Change (adult),1
+Colorado,CO,Name Change (minor),1
+Colorado,CO,Non Discrimination,1
+Colorado,CO,Foster Care Non Discrimination,TRUE
+Colorado,CO,Adoption Nondiscrimination,TRUE
+Colorado,CO,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Colorado,CO,Recognition of assisted Reproduction,TRUE
+Colorado,CO,VAP for Non-Genetic LGBTQ Parents,TRUE
+Colorado,CO,Gender Inclusive Bathroom Laws (Adult),TRUE
+Colorado,CO,Gender Inclusive Bathroom Laws (minor),TRUE
+Colorado,CO,LGBTQ Inclusive Curriculum,TRUE
+Colorado,CO,Anti-Bullying Legal Protections for TGNC* students,1
+Colorado,CO,Non-discrimination  Protections for LGBTQ Students,1
+Colorado,CO,Gay/ Trans Panic Defense Ban,TRUE
+Colorado,CO,Hate Crime Laws Specific to Gender Identity,TRUE
+Colorado,CO,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+Colorado,CO,Gender Inclusive Correctional Housing ,FALSE
+Colorado,CO,Gender Affirming Care in Correctional Facilities,FALSE
+Colorado,CO,Trans Bathroom Ban K-12,0
+Colorado,CO,Trans Bathroom Ban in Schools and Government Buildings,0
+Colorado,CO,State Defines Sex,0
+Colorado,CO,Broad ‘RFRA’,0
+Colorado,CO,Religious Exemption for Child Welfare,0
+Colorado,CO,Religious Exemption for Medical Professionals,0
+Colorado,CO,Marriage Services and/or Marriage License Denial,0
+Colorado,CO,Drag Ban,0
+Colorado,CO,Don’t Say Gay,0
+Colorado,CO,Specific Subject Restrictions,0
+Colorado,CO,Parental Notification (opt-in or opt-out),0
+Colorado,CO,Sports Ban,0
+Colorado,CO,Forced Outing in Schools,0
+Colorado,CO,Ban on Best Practice Medical Care for Trans Youth,0
+Colorado,CO,Barriers to Identity Documents,0
+Colorado,CO,Abortion Access,0.5
+Colorado,CO,Interstate Abortion Shield Law,TRUE
+Connecticut,CT,Shield Law,TRUE
+Connecticut,CT,Gender Marker on ID (adult),1
+Connecticut,CT,Gender Marker on ID (minor),1
+Connecticut,CT,Gender Marker options on ID,TRUE
+Connecticut,CT,Gender Marker on Birth Certificate (adult),0.5
+Connecticut,CT,Gender Marker on Birth Certificate (minor),0.5
+Connecticut,CT,Gender Marker options on Birth Certificate,TRUE
+Connecticut,CT,Name Change (adult),1
+Connecticut,CT,Name Change (minor),1
+Connecticut,CT,Non Discrimination,1
+Connecticut,CT,Foster Care Non Discrimination,TRUE
+Connecticut,CT,Adoption Nondiscrimination,TRUE
+Connecticut,CT,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Connecticut,CT,Recognition of assisted Reproduction,TRUE
+Connecticut,CT,VAP for Non-Genetic LGBTQ Parents,FALSE
+Connecticut,CT,Gender Inclusive Bathroom Laws (Adult),TRUE
+Connecticut,CT,Gender Inclusive Bathroom Laws (minor),TRUE
+Connecticut,CT,LGBTQ Inclusive Curriculum,TRUE
+Connecticut,CT,Anti-Bullying Legal Protections for TGNC* students,1
+Connecticut,CT,Non-discrimination  Protections for LGBTQ Students,1
+Connecticut,CT,Gay/ Trans Panic Defense Ban,TRUE
+Connecticut,CT,Hate Crime Laws Specific to Gender Identity,TRUE
+Connecticut,CT,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Connecticut,CT,Gender Inclusive Correctional Housing ,FALSE
+Connecticut,CT,Gender Affirming Care in Correctional Facilities,FALSE
+Connecticut,CT,Trans Bathroom Ban K-12,0
+Connecticut,CT,Trans Bathroom Ban in Schools and Government Buildings,0
+Connecticut,CT,State Defines Sex,0
+Connecticut,CT,Broad ‘RFRA’,-1
+Connecticut,CT,Religious Exemption for Child Welfare,0
+Connecticut,CT,Religious Exemption for Medical Professionals,0
+Connecticut,CT,Marriage Services and/or Marriage License Denial,0
+Connecticut,CT,Drag Ban,0
+Connecticut,CT,Don’t Say Gay,0
+Connecticut,CT,Specific Subject Restrictions,0
+Connecticut,CT,Parental Notification (opt-in or opt-out),0
+Connecticut,CT,Sports Ban,0
+Connecticut,CT,Forced Outing in Schools,0
+Connecticut,CT,Ban on Best Practice Medical Care for Trans Youth,0
+Connecticut,CT,Barriers to Identity Documents,0
+Connecticut,CT,Abortion Access,1
+Connecticut,CT,Interstate Abortion Shield Law,TRUE
+Delaware,DE,Shield Law,FALSE
+Delaware,DE,Gender Marker on ID (adult),0.5
+Delaware,DE,Gender Marker on ID (minor),0.5
+Delaware,DE,Gender Marker options on ID,FALSE
+Delaware,DE,Gender Marker on Birth Certificate (adult),0.5
+Delaware,DE,Gender Marker on Birth Certificate (minor),0.5
+Delaware,DE,Gender Marker options on Birth Certificate,FALSE
+Delaware,DE,Name Change (adult),1
+Delaware,DE,Name Change (minor),1
+Delaware,DE,Non Discrimination,1
+Delaware,DE,Foster Care Non Discrimination,TRUE
+Delaware,DE,Adoption Nondiscrimination,TRUE
+Delaware,DE,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Delaware,DE,Recognition of assisted Reproduction,TRUE
+Delaware,DE,VAP for Non-Genetic LGBTQ Parents,FALSE
+Delaware,DE,Gender Inclusive Bathroom Laws (Adult),TRUE
+Delaware,DE,Gender Inclusive Bathroom Laws (minor),TRUE
+Delaware,DE,LGBTQ Inclusive Curriculum,FALSE
+Delaware,DE,Anti-Bullying Legal Protections for TGNC* students,1
+Delaware,DE,Non-discrimination  Protections for LGBTQ Students,0.5
+Delaware,DE,Gay/ Trans Panic Defense Ban,TRUE
+Delaware,DE,Hate Crime Laws Specific to Gender Identity,TRUE
+Delaware,DE,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Delaware,DE,Gender Inclusive Correctional Housing ,FALSE
+Delaware,DE,Gender Affirming Care in Correctional Facilities,FALSE
+Delaware,DE,Trans Bathroom Ban K-12,0
+Delaware,DE,Trans Bathroom Ban in Schools and Government Buildings,0
+Delaware,DE,State Defines Sex,0
+Delaware,DE,Broad ‘RFRA’,0
+Delaware,DE,Religious Exemption for Child Welfare,0
+Delaware,DE,Religious Exemption for Medical Professionals,0
+Delaware,DE,Marriage Services and/or Marriage License Denial,0
+Delaware,DE,Drag Ban,0
+Delaware,DE,Don’t Say Gay,0
+Delaware,DE,Specific Subject Restrictions,0
+Delaware,DE,Parental Notification (opt-in or opt-out),0
+Delaware,DE,Sports Ban,0
+Delaware,DE,Forced Outing in Schools,0
+Delaware,DE,Ban on Best Practice Medical Care for Trans Youth,0
+Delaware,DE,Barriers to Identity Documents,0
+Delaware,DE,Abortion Access,0.5
+Delaware,DE,Interstate Abortion Shield Law,TRUE
+Florida,FL,Shield Law,FALSE
+Florida,FL,Gender Marker on ID (adult),-1
+Florida,FL,Gender Marker on ID (minor),-1
+Florida,FL,Gender Marker options on ID,FALSE
+Florida,FL,Gender Marker on Birth Certificate (adult),0.5
+Florida,FL,Gender Marker on Birth Certificate (minor),0.5
+Florida,FL,Gender Marker options on Birth Certificate,FALSE
+Florida,FL,Name Change (adult),1
+Florida,FL,Name Change (minor),1
+Florida,FL,Non Discrimination,1
+Florida,FL,Foster Care Non Discrimination,FALSE
+Florida,FL,Adoption Nondiscrimination,FALSE
+Florida,FL,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Florida,FL,Recognition of assisted Reproduction,FALSE
+Florida,FL,VAP for Non-Genetic LGBTQ Parents,FALSE
+Florida,FL,Gender Inclusive Bathroom Laws (Adult),FALSE
+Florida,FL,Gender Inclusive Bathroom Laws (minor),FALSE
+Florida,FL,LGBTQ Inclusive Curriculum,FALSE
+Florida,FL,Anti-Bullying Legal Protections for TGNC* students,0
+Florida,FL,Non-discrimination  Protections for LGBTQ Students,0
+Florida,FL,Gay/ Trans Panic Defense Ban,FALSE
+Florida,FL,Hate Crime Laws Specific to Gender Identity,FALSE
+Florida,FL,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Florida,FL,Gender Inclusive Correctional Housing ,FALSE
+Florida,FL,Gender Affirming Care in Correctional Facilities,FALSE
+Florida,FL,Trans Bathroom Ban K-12,-1
+Florida,FL,Trans Bathroom Ban in Schools and Government Buildings,-1
+Florida,FL,State Defines Sex,0
+Florida,FL,Broad ‘RFRA’,-1
+Florida,FL,Religious Exemption for Child Welfare,0
+Florida,FL,Religious Exemption for Medical Professionals,-1
+Florida,FL,Marriage Services and/or Marriage License Denial,0
+Florida,FL,Drag Ban,0
+Florida,FL,Don’t Say Gay,-1
+Florida,FL,Specific Subject Restrictions,0
+Florida,FL,Parental Notification (opt-in or opt-out),-1
+Florida,FL,Sports Ban,-1
+Florida,FL,Forced Outing in Schools,0.5
+Florida,FL,Ban on Best Practice Medical Care for Trans Youth,-1
+Florida,FL,Barriers to Identity Documents,-1
+Florida,FL,Abortion Access,0.5
+Florida,FL,Interstate Abortion Shield Law,FALSE
+Georgia,GA,Shield Law,FALSE
+Georgia,GA,Gender Marker on ID (adult),-1
+Georgia,GA,Gender Marker on ID (minor),-1
+Georgia,GA,Gender Marker options on ID,FALSE
+Georgia,GA,Gender Marker on Birth Certificate (adult),-1
+Georgia,GA,Gender Marker on Birth Certificate (minor),-1
+Georgia,GA,Gender Marker options on Birth Certificate,FALSE
+Georgia,GA,Name Change (adult),-1
+Georgia,GA,Name Change (minor),-1
+Georgia,GA,Non Discrimination,0
+Georgia,GA,Foster Care Non Discrimination,FALSE
+Georgia,GA,Adoption Nondiscrimination,FALSE
+Georgia,GA,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Georgia,GA,Recognition of assisted Reproduction,FALSE
+Georgia,GA,VAP for Non-Genetic LGBTQ Parents,FALSE
+Georgia,GA,Gender Inclusive Bathroom Laws (Adult),FALSE
+Georgia,GA,Gender Inclusive Bathroom Laws (minor),FALSE
+Georgia,GA,LGBTQ Inclusive Curriculum,FALSE
+Georgia,GA,Anti-Bullying Legal Protections for TGNC* students,0
+Georgia,GA,Non-discrimination  Protections for LGBTQ Students,0
+Georgia,GA,Gay/ Trans Panic Defense Ban,FALSE
+Georgia,GA,Hate Crime Laws Specific to Gender Identity,TRUE
+Georgia,GA,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Georgia,GA,Gender Inclusive Correctional Housing ,FALSE
+Georgia,GA,Gender Affirming Care in Correctional Facilities,FALSE
+Georgia,GA,Trans Bathroom Ban K-12,0
+Georgia,GA,Trans Bathroom Ban in Schools and Government Buildings,0
+Georgia,GA,State Defines Sex,0
+Georgia,GA,Broad ‘RFRA’,0
+Georgia,GA,Religious Exemption for Child Welfare,0
+Georgia,GA,Religious Exemption for Medical Professionals,0
+Georgia,GA,Marriage Services and/or Marriage License Denial,0
+Georgia,GA,Drag Ban,0
+Georgia,GA,Don’t Say Gay,0
+Georgia,GA,Specific Subject Restrictions,0
+Georgia,GA,Parental Notification (opt-in or opt-out),0
+Georgia,GA,Sports Ban,0
+Georgia,GA,Forced Outing in Schools,0
+Georgia,GA,Ban on Best Practice Medical Care for Trans Youth,-1
+Georgia,GA,Barriers to Identity Documents,0
+Georgia,GA,Abortion Access,0.5
+Georgia,GA,Interstate Abortion Shield Law,FALSE
+Hawaii,HI,Shield Law,FALSE
+Hawaii,HI,Gender Marker on ID (adult),1
+Hawaii,HI,Gender Marker on ID (minor),1
+Hawaii,HI,Gender Marker options on ID,TRUE
+Hawaii,HI,Gender Marker on Birth Certificate (adult),0.5
+Hawaii,HI,Gender Marker on Birth Certificate (minor),0.5
+Hawaii,HI,Gender Marker options on Birth Certificate,FALSE
+Hawaii,HI,Name Change (adult),0
+Hawaii,HI,Name Change (minor),0
+Hawaii,HI,Non Discrimination,1
+Hawaii,HI,Foster Care Non Discrimination,TRUE
+Hawaii,HI,Adoption Nondiscrimination,TRUE
+Hawaii,HI,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Hawaii,HI,Recognition of assisted Reproduction,FALSE
+Hawaii,HI,VAP for Non-Genetic LGBTQ Parents,FALSE
+Hawaii,HI,Gender Inclusive Bathroom Laws (Adult),TRUE
+Hawaii,HI,Gender Inclusive Bathroom Laws (minor),TRUE
+Hawaii,HI,LGBTQ Inclusive Curriculum,FALSE
+Hawaii,HI,Anti-Bullying Legal Protections for TGNC* students,1
+Hawaii,HI,Non-discrimination  Protections for LGBTQ Students,1
+Hawaii,HI,Gay/ Trans Panic Defense Ban,TRUE
+Hawaii,HI,Hate Crime Laws Specific to Gender Identity,TRUE
+Hawaii,HI,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+Hawaii,HI,Gender Inclusive Correctional Housing ,FALSE
+Hawaii,HI,Gender Affirming Care in Correctional Facilities,FALSE
+Hawaii,HI,Trans Bathroom Ban K-12,0
+Hawaii,HI,Trans Bathroom Ban in Schools and Government Buildings,0
+Hawaii,HI,State Defines Sex,0
+Hawaii,HI,Broad ‘RFRA’,0
+Hawaii,HI,Religious Exemption for Child Welfare,0
+Hawaii,HI,Religious Exemption for Medical Professionals,0
+Hawaii,HI,Marriage Services and/or Marriage License Denial,0
+Hawaii,HI,Drag Ban,0
+Hawaii,HI,Don’t Say Gay,0
+Hawaii,HI,Specific Subject Restrictions,0
+Hawaii,HI,Parental Notification (opt-in or opt-out),0
+Hawaii,HI,Sports Ban,0
+Hawaii,HI,Forced Outing in Schools,0
+Hawaii,HI,Ban on Best Practice Medical Care for Trans Youth,0
+Hawaii,HI,Barriers to Identity Documents,0
+Hawaii,HI,Abortion Access,1
+Hawaii,HI,Interstate Abortion Shield Law,TRUE
+Idaho,ID,Shield Law,FALSE
+Idaho,ID,Gender Marker on ID (adult),0
+Idaho,ID,Gender Marker on ID (minor),0
+Idaho,ID,Gender Marker options on ID,FALSE
+Idaho,ID,Gender Marker on Birth Certificate (adult),1
+Idaho,ID,Gender Marker on Birth Certificate (minor),1
+Idaho,ID,Gender Marker options on Birth Certificate,FALSE
+Idaho,ID,Name Change (adult),-1
+Idaho,ID,Name Change (minor),-1
+Idaho,ID,Non Discrimination,-1
+Idaho,ID,Foster Care Non Discrimination,FALSE
+Idaho,ID,Adoption Nondiscrimination,FALSE
+Idaho,ID,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Idaho,ID,Recognition of assisted Reproduction,FALSE
+Idaho,ID,VAP for Non-Genetic LGBTQ Parents,FALSE
+Idaho,ID,Gender Inclusive Bathroom Laws (Adult),FALSE
+Idaho,ID,Gender Inclusive Bathroom Laws (minor),FALSE
+Idaho,ID,LGBTQ Inclusive Curriculum,FALSE
+Idaho,ID,Anti-Bullying Legal Protections for TGNC* students,0
+Idaho,ID,Non-discrimination  Protections for LGBTQ Students,0
+Idaho,ID,Gay/ Trans Panic Defense Ban,FALSE
+Idaho,ID,Hate Crime Laws Specific to Gender Identity,FALSE
+Idaho,ID,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Idaho,ID,Gender Inclusive Correctional Housing ,FALSE
+Idaho,ID,Gender Affirming Care in Correctional Facilities,FALSE
+Idaho,ID,Trans Bathroom Ban K-12,-1
+Idaho,ID,Trans Bathroom Ban in Schools and Government Buildings,0
+Idaho,ID,State Defines Sex,0
+Idaho,ID,Broad ‘RFRA’,-1
+Idaho,ID,Religious Exemption for Child Welfare,0
+Idaho,ID,Religious Exemption for Medical Professionals,0
+Idaho,ID,Marriage Services and/or Marriage License Denial,0
+Idaho,ID,Drag Ban,0
+Idaho,ID,Don’t Say Gay,0
+Idaho,ID,Specific Subject Restrictions,0
+Idaho,ID,Parental Notification (opt-in or opt-out),0
+Idaho,ID,Sports Ban,-1
+Idaho,ID,Forced Outing in Schools,-0.5
+Idaho,ID,Ban on Best Practice Medical Care for Trans Youth,-1
+Idaho,ID,Barriers to Identity Documents,0
+Idaho,ID,Abortion Access,-1
+Idaho,ID,Interstate Abortion Shield Law,FALSE
+Illinois,IL,Shield Law,TRUE
+Illinois,IL,Gender Marker on ID (adult),1
+Illinois,IL,Gender Marker on ID (minor),1
+Illinois,IL,Gender Marker options on ID,TRUE
+Illinois,IL,Gender Marker on Birth Certificate (adult),1
+Illinois,IL,Gender Marker on Birth Certificate (minor),1
+Illinois,IL,Gender Marker options on Birth Certificate,TRUE
+Illinois,IL,Name Change (adult),0
+Illinois,IL,Name Change (minor),0
+Illinois,IL,Non Discrimination,1
+Illinois,IL,Foster Care Non Discrimination,TRUE
+Illinois,IL,Adoption Nondiscrimination,TRUE
+Illinois,IL,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Illinois,IL,Recognition of assisted Reproduction,TRUE
+Illinois,IL,VAP for Non-Genetic LGBTQ Parents,FALSE
+Illinois,IL,Gender Inclusive Bathroom Laws (Adult),TRUE
+Illinois,IL,Gender Inclusive Bathroom Laws (minor),TRUE
+Illinois,IL,LGBTQ Inclusive Curriculum,TRUE
+Illinois,IL,Anti-Bullying Legal Protections for TGNC* students,1
+Illinois,IL,Non-discrimination  Protections for LGBTQ Students,1
+Illinois,IL,Gay/ Trans Panic Defense Ban,TRUE
+Illinois,IL,Hate Crime Laws Specific to Gender Identity,TRUE
+Illinois,IL,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+Illinois,IL,Gender Inclusive Correctional Housing ,FALSE
+Illinois,IL,Gender Affirming Care in Correctional Facilities,FALSE
+Illinois,IL,Trans Bathroom Ban K-12,0
+Illinois,IL,Trans Bathroom Ban in Schools and Government Buildings,0
+Illinois,IL,State Defines Sex,0
+Illinois,IL,Broad ‘RFRA’,-1
+Illinois,IL,Religious Exemption for Child Welfare,0
+Illinois,IL,Religious Exemption for Medical Professionals,-1
+Illinois,IL,Marriage Services and/or Marriage License Denial,0
+Illinois,IL,Drag Ban,0
+Illinois,IL,Don’t Say Gay,0
+Illinois,IL,Specific Subject Restrictions,0
+Illinois,IL,Parental Notification (opt-in or opt-out),0
+Illinois,IL,Sports Ban,0
+Illinois,IL,Forced Outing in Schools,0
+Illinois,IL,Ban on Best Practice Medical Care for Trans Youth,0
+Illinois,IL,Barriers to Identity Documents,0
+Illinois,IL,Abortion Access,1
+Illinois,IL,Interstate Abortion Shield Law,TRUE
+Indiana,IN,Shield Law,FALSE
+Indiana,IN,Gender Marker on ID (adult),0.5
+Indiana,IN,Gender Marker on ID (minor),0.5
+Indiana,IN,Gender Marker options on ID,TRUE
+Indiana,IN,Gender Marker on Birth Certificate (adult),-1
+Indiana,IN,Gender Marker on Birth Certificate (minor),-1
+Indiana,IN,Gender Marker options on Birth Certificate,FALSE
+Indiana,IN,Name Change (adult),-1
+Indiana,IN,Name Change (minor),-1
+Indiana,IN,Non Discrimination,-1
+Indiana,IN,Foster Care Non Discrimination,FALSE
+Indiana,IN,Adoption Nondiscrimination,FALSE
+Indiana,IN,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Indiana,IN,Recognition of assisted Reproduction,FALSE
+Indiana,IN,VAP for Non-Genetic LGBTQ Parents,FALSE
+Indiana,IN,Gender Inclusive Bathroom Laws (Adult),FALSE
+Indiana,IN,Gender Inclusive Bathroom Laws (minor),TRUE
+Indiana,IN,LGBTQ Inclusive Curriculum,FALSE
+Indiana,IN,Anti-Bullying Legal Protections for TGNC* students,0
+Indiana,IN,Non-discrimination  Protections for LGBTQ Students,0
+Indiana,IN,Gay/ Trans Panic Defense Ban,FALSE
+Indiana,IN,Hate Crime Laws Specific to Gender Identity,FALSE
+Indiana,IN,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Indiana,IN,Gender Inclusive Correctional Housing ,FALSE
+Indiana,IN,Gender Affirming Care in Correctional Facilities,FALSE
+Indiana,IN,Trans Bathroom Ban K-12,0
+Indiana,IN,Trans Bathroom Ban in Schools and Government Buildings,0
+Indiana,IN,State Defines Sex,0
+Indiana,IN,Broad ‘RFRA’,-1
+Indiana,IN,Religious Exemption for Child Welfare,0
+Indiana,IN,Religious Exemption for Medical Professionals,0
+Indiana,IN,Marriage Services and/or Marriage License Denial,0
+Indiana,IN,Drag Ban,0
+Indiana,IN,Don’t Say Gay,-1
+Indiana,IN,Specific Subject Restrictions,0
+Indiana,IN,Parental Notification (opt-in or opt-out),0
+Indiana,IN,Sports Ban,-1
+Indiana,IN,Forced Outing in Schools,-1
+Indiana,IN,Ban on Best Practice Medical Care for Trans Youth,-1
+Indiana,IN,Barriers to Identity Documents,0
+Indiana,IN,Abortion Access,-1
+Indiana,IN,Interstate Abortion Shield Law,FALSE
+Iowa,IA,Shield Law,FALSE
+Iowa,IA,Gender Marker on ID (adult),-1
+Iowa,IA,Gender Marker on ID (minor),
+Iowa,IA,Gender Marker options on ID,FALSE
+Iowa,IA,Gender Marker on Birth Certificate (adult),0.5
+Iowa,IA,Gender Marker on Birth Certificate (minor),0.5
+Iowa,IA,Gender Marker options on Birth Certificate,FALSE
+Iowa,IA,Name Change (adult),0.5
+Iowa,IA,Name Change (minor),0.5
+Iowa,IA,Non Discrimination,1
+Iowa,IA,Foster Care Non Discrimination,TRUE
+Iowa,IA,Adoption Nondiscrimination,TRUE
+Iowa,IA,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Iowa,IA,Recognition of assisted Reproduction,FALSE
+Iowa,IA,VAP for Non-Genetic LGBTQ Parents,FALSE
+Iowa,IA,Gender Inclusive Bathroom Laws (Adult),TRUE
+Iowa,IA,Gender Inclusive Bathroom Laws (minor),FALSE
+Iowa,IA,LGBTQ Inclusive Curriculum,FALSE
+Iowa,IA,Anti-Bullying Legal Protections for TGNC* students,1
+Iowa,IA,Non-discrimination  Protections for LGBTQ Students,1
+Iowa,IA,Gay/ Trans Panic Defense Ban,FALSE
+Iowa,IA,Hate Crime Laws Specific to Gender Identity,FALSE
+Iowa,IA,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Iowa,IA,Gender Inclusive Correctional Housing ,FALSE
+Iowa,IA,Gender Affirming Care in Correctional Facilities,FALSE
+Iowa,IA,Trans Bathroom Ban K-12,-1
+Iowa,IA,Trans Bathroom Ban in Schools and Government Buildings,0
+Iowa,IA,State Defines Sex,0
+Iowa,IA,Broad ‘RFRA’,0
+Iowa,IA,Religious Exemption for Child Welfare,0
+Iowa,IA,Religious Exemption for Medical Professionals,0
+Iowa,IA,Marriage Services and/or Marriage License Denial,0
+Iowa,IA,Drag Ban,0
+Iowa,IA,Don’t Say Gay,-1
+Iowa,IA,Specific Subject Restrictions,0
+Iowa,IA,Parental Notification (opt-in or opt-out),0
+Iowa,IA,Sports Ban,-1
+Iowa,IA,Forced Outing in Schools,-1
+Iowa,IA,Ban on Best Practice Medical Care for Trans Youth,-1
+Iowa,IA,Barriers to Identity Documents,0
+Iowa,IA,Abortion Access,-0.5
+Iowa,IA,Interstate Abortion Shield Law,FALSE
+Kansas,KS,Shield Law,FALSE
+Kansas,KS,Gender Marker on ID (adult),-1
+Kansas,KS,Gender Marker on ID (minor),
+Kansas,KS,Gender Marker options on ID,FALSE
+Kansas,KS,Gender Marker on Birth Certificate (adult),-1
+Kansas,KS,Gender Marker on Birth Certificate (minor),-1
+Kansas,KS,Gender Marker options on Birth Certificate,FALSE
+Kansas,KS,Name Change (adult),0.5
+Kansas,KS,Name Change (minor),0.5
+Kansas,KS,Non Discrimination,1
+Kansas,KS,Foster Care Non Discrimination,FALSE
+Kansas,KS,Adoption Nondiscrimination,FALSE
+Kansas,KS,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Kansas,KS,Recognition of assisted Reproduction,FALSE
+Kansas,KS,VAP for Non-Genetic LGBTQ Parents,FALSE
+Kansas,KS,Gender Inclusive Bathroom Laws (Adult),FALSE
+Kansas,KS,Gender Inclusive Bathroom Laws (minor),FALSE
+Kansas,KS,LGBTQ Inclusive Curriculum,FALSE
+Kansas,KS,Anti-Bullying Legal Protections for TGNC* students,0
+Kansas,KS,Non-discrimination  Protections for LGBTQ Students,0
+Kansas,KS,Gay/ Trans Panic Defense Ban,FALSE
+Kansas,KS,Hate Crime Laws Specific to Gender Identity,FALSE
+Kansas,KS,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Kansas,KS,Gender Inclusive Correctional Housing ,FALSE
+Kansas,KS,Gender Affirming Care in Correctional Facilities,FALSE
+Kansas,KS,Trans Bathroom Ban K-12,0
+Kansas,KS,Trans Bathroom Ban in Schools and Government Buildings,0
+Kansas,KS,State Defines Sex,-1
+Kansas,KS,Broad ‘RFRA’,-1
+Kansas,KS,Religious Exemption for Child Welfare,-1
+Kansas,KS,Religious Exemption for Medical Professionals,0
+Kansas,KS,Marriage Services and/or Marriage License Denial,-1
+Kansas,KS,Drag Ban,0
+Kansas,KS,Don’t Say Gay,0
+Kansas,KS,Specific Subject Restrictions,0
+Kansas,KS,Parental Notification (opt-in or opt-out),0
+Kansas,KS,Sports Ban,-1
+Kansas,KS,Forced Outing in Schools,0
+Kansas,KS,Ban on Best Practice Medical Care for Trans Youth,0
+Kansas,KS,Barriers to Identity Documents,-1
+Kansas,KS,Abortion Access,0.5
+Kansas,KS,Interstate Abortion Shield Law,FALSE
+Kentucky,KY,Shield Law,FALSE
+Kentucky,KY,Gender Marker on ID (adult),-1
+Kentucky,KY,Gender Marker on ID (minor),
+Kentucky,KY,Gender Marker options on ID,FALSE
+Kentucky,KY,Gender Marker on Birth Certificate (adult),-1
+Kentucky,KY,Gender Marker on Birth Certificate (minor),-1
+Kentucky,KY,Gender Marker options on Birth Certificate,FALSE
+Kentucky,KY,Name Change (adult),1
+Kentucky,KY,Name Change (minor),1
+Kentucky,KY,Non Discrimination,0.5
+Kentucky,KY,Foster Care Non Discrimination,TRUE
+Kentucky,KY,Adoption Nondiscrimination,TRUE
+Kentucky,KY,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Kentucky,KY,Recognition of assisted Reproduction,FALSE
+Kentucky,KY,VAP for Non-Genetic LGBTQ Parents,FALSE
+Kentucky,KY,Gender Inclusive Bathroom Laws (Adult),FALSE
+Kentucky,KY,Gender Inclusive Bathroom Laws (minor),FALSE
+Kentucky,KY,LGBTQ Inclusive Curriculum,FALSE
+Kentucky,KY,Anti-Bullying Legal Protections for TGNC* students,0
+Kentucky,KY,Non-discrimination  Protections for LGBTQ Students,0
+Kentucky,KY,Gay/ Trans Panic Defense Ban,FALSE
+Kentucky,KY,Hate Crime Laws Specific to Gender Identity,FALSE
+Kentucky,KY,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Kentucky,KY,Gender Inclusive Correctional Housing ,FALSE
+Kentucky,KY,Gender Affirming Care in Correctional Facilities,FALSE
+Kentucky,KY,Trans Bathroom Ban K-12,-1
+Kentucky,KY,Trans Bathroom Ban in Schools and Government Buildings,0
+Kentucky,KY,State Defines Sex,0
+Kentucky,KY,Broad ‘RFRA’,-1
+Kentucky,KY,Religious Exemption for Child Welfare,0
+Kentucky,KY,Religious Exemption for Medical Professionals,0
+Kentucky,KY,Marriage Services and/or Marriage License Denial,0
+Kentucky,KY,Drag Ban,0
+Kentucky,KY,Don’t Say Gay,-1
+Kentucky,KY,Specific Subject Restrictions,0
+Kentucky,KY,Parental Notification (opt-in or opt-out),0
+Kentucky,KY,Sports Ban,-1
+Kentucky,KY,Forced Outing in Schools,-0.5
+Kentucky,KY,Ban on Best Practice Medical Care for Trans Youth,-1
+Kentucky,KY,Barriers to Identity Documents,0
+Kentucky,KY,Abortion Access,-1
+Kentucky,KY,Interstate Abortion Shield Law,FALSE
+Louisiana,LA,Shield Law,FALSE
+Louisiana,LA,Gender Marker on ID (adult),0
+Louisiana,LA,Gender Marker on ID (minor),
+Louisiana,LA,Gender Marker options on ID,FALSE
+Louisiana,LA,Gender Marker on Birth Certificate (adult),-1
+Louisiana,LA,Gender Marker on Birth Certificate (minor),-1
+Louisiana,LA,Gender Marker options on Birth Certificate,FALSE
+Louisiana,LA,Name Change (adult),1
+Louisiana,LA,Name Change (minor),1
+Louisiana,LA,Non Discrimination,-1
+Louisiana,LA,Foster Care Non Discrimination,FALSE
+Louisiana,LA,Adoption Nondiscrimination,FALSE
+Louisiana,LA,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Louisiana,LA,Recognition of assisted Reproduction,FALSE
+Louisiana,LA,VAP for Non-Genetic LGBTQ Parents,FALSE
+Louisiana,LA,Gender Inclusive Bathroom Laws (Adult),FALSE
+Louisiana,LA,Gender Inclusive Bathroom Laws (minor),FALSE
+Louisiana,LA,LGBTQ Inclusive Curriculum,FALSE
+Louisiana,LA,Anti-Bullying Legal Protections for TGNC* students,0
+Louisiana,LA,Non-discrimination  Protections for LGBTQ Students,0
+Louisiana,LA,Gay/ Trans Panic Defense Ban,FALSE
+Louisiana,LA,Hate Crime Laws Specific to Gender Identity,FALSE
+Louisiana,LA,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Louisiana,LA,Gender Inclusive Correctional Housing ,FALSE
+Louisiana,LA,Gender Affirming Care in Correctional Facilities,FALSE
+Louisiana,LA,Trans Bathroom Ban K-12,0
+Louisiana,LA,Trans Bathroom Ban in Schools and Government Buildings,0
+Louisiana,LA,State Defines Sex,0
+Louisiana,LA,Broad ‘RFRA’,-1
+Louisiana,LA,Religious Exemption for Child Welfare,0
+Louisiana,LA,Religious Exemption for Medical Professionals,0
+Louisiana,LA,Marriage Services and/or Marriage License Denial,0
+Louisiana,LA,Drag Ban,0
+Louisiana,LA,Don’t Say Gay,0
+Louisiana,LA,Specific Subject Restrictions,-1
+Louisiana,LA,Parental Notification (opt-in or opt-out),0
+Louisiana,LA,Sports Ban,-1
+Louisiana,LA,Forced Outing in Schools,0
+Louisiana,LA,Ban on Best Practice Medical Care for Trans Youth,-1
+Louisiana,LA,Barriers to Identity Documents,0
+Louisiana,LA,Abortion Access,-1
+Louisiana,LA,Interstate Abortion Shield Law,FALSE
+Maine,ME,Shield Law,FALSE
+Maine,ME,Gender Marker on ID (adult),1
+Maine,ME,Gender Marker on ID (minor),
+Maine,ME,Gender Marker options on ID,TRUE
+Maine,ME,Gender Marker on Birth Certificate (adult),1
+Maine,ME,Gender Marker on Birth Certificate (minor),0.5
+Maine,ME,Gender Marker options on Birth Certificate,TRUE
+Maine,ME,Name Change (adult),1
+Maine,ME,Name Change (minor),1
+Maine,ME,Non Discrimination,1
+Maine,ME,Foster Care Non Discrimination,TRUE
+Maine,ME,Adoption Nondiscrimination,TRUE
+Maine,ME,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Maine,ME,Recognition of assisted Reproduction,TRUE
+Maine,ME,VAP for Non-Genetic LGBTQ Parents,TRUE
+Maine,ME,Gender Inclusive Bathroom Laws (Adult),TRUE
+Maine,ME,Gender Inclusive Bathroom Laws (minor),TRUE
+Maine,ME,LGBTQ Inclusive Curriculum,FALSE
+Maine,ME,Anti-Bullying Legal Protections for TGNC* students,1
+Maine,ME,Non-discrimination  Protections for LGBTQ Students,1
+Maine,ME,Gay/ Trans Panic Defense Ban,TRUE
+Maine,ME,Hate Crime Laws Specific to Gender Identity,TRUE
+Maine,ME,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+Maine,ME,Gender Inclusive Correctional Housing ,FALSE
+Maine,ME,Gender Affirming Care in Correctional Facilities,FALSE
+Maine,ME,Trans Bathroom Ban K-12,0
+Maine,ME,Trans Bathroom Ban in Schools and Government Buildings,0
+Maine,ME,State Defines Sex,0
+Maine,ME,Broad ‘RFRA’,0
+Maine,ME,Religious Exemption for Child Welfare,0
+Maine,ME,Religious Exemption for Medical Professionals,0
+Maine,ME,Marriage Services and/or Marriage License Denial,0
+Maine,ME,Drag Ban,0
+Maine,ME,Don’t Say Gay,0
+Maine,ME,Specific Subject Restrictions,0
+Maine,ME,Parental Notification (opt-in or opt-out),0
+Maine,ME,Sports Ban,0
+Maine,ME,Forced Outing in Schools,0
+Maine,ME,Ban on Best Practice Medical Care for Trans Youth,0
+Maine,ME,Barriers to Identity Documents,0
+Maine,ME,Abortion Access,0.5
+Maine,ME,Interstate Abortion Shield Law,TRUE
+Maryland,MD,Shield Law,TRUE
+Maryland,MD,Gender Marker on ID (adult),1
+Maryland,MD,Gender Marker on ID (minor),
+Maryland,MD,Gender Marker options on ID,TRUE
+Maryland,MD,Gender Marker on Birth Certificate (adult),0.5
+Maryland,MD,Gender Marker on Birth Certificate (minor),0.5
+Maryland,MD,Gender Marker options on Birth Certificate,FALSE
+Maryland,MD,Name Change (adult),1
+Maryland,MD,Name Change (minor),1
+Maryland,MD,Non Discrimination,1
+Maryland,MD,Foster Care Non Discrimination,TRUE
+Maryland,MD,Adoption Nondiscrimination,TRUE
+Maryland,MD,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Maryland,MD,Recognition of assisted Reproduction,TRUE
+Maryland,MD,VAP for Non-Genetic LGBTQ Parents,TRUE
+Maryland,MD,Gender Inclusive Bathroom Laws (Adult),FALSE
+Maryland,MD,Gender Inclusive Bathroom Laws (minor),FALSE
+Maryland,MD,LGBTQ Inclusive Curriculum,FALSE
+Maryland,MD,Anti-Bullying Legal Protections for TGNC* students,1
+Maryland,MD,Non-discrimination  Protections for LGBTQ Students,1
+Maryland,MD,Gay/ Trans Panic Defense Ban,TRUE
+Maryland,MD,Hate Crime Laws Specific to Gender Identity,TRUE
+Maryland,MD,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Maryland,MD,Gender Inclusive Correctional Housing ,FALSE
+Maryland,MD,Gender Affirming Care in Correctional Facilities,FALSE
+Maryland,MD,Trans Bathroom Ban K-12,0
+Maryland,MD,Trans Bathroom Ban in Schools and Government Buildings,0
+Maryland,MD,State Defines Sex,0
+Maryland,MD,Broad ‘RFRA’,0
+Maryland,MD,Religious Exemption for Child Welfare,0
+Maryland,MD,Religious Exemption for Medical Professionals,0
+Maryland,MD,Marriage Services and/or Marriage License Denial,0
+Maryland,MD,Drag Ban,0
+Maryland,MD,Don’t Say Gay,0
+Maryland,MD,Specific Subject Restrictions,0
+Maryland,MD,Parental Notification (opt-in or opt-out),0
+Maryland,MD,Sports Ban,0
+Maryland,MD,Forced Outing in Schools,0
+Maryland,MD,Ban on Best Practice Medical Care for Trans Youth,0
+Maryland,MD,Barriers to Identity Documents,0
+Maryland,MD,Abortion Access,1
+Maryland,MD,Interstate Abortion Shield Law,TRUE
+Massachusetts,MA,Shield Law,TRUE
+Massachusetts,MA,Gender Marker on ID (adult),1
+Massachusetts,MA,Gender Marker on ID (minor),
+Massachusetts,MA,Gender Marker options on ID,TRUE
+Massachusetts,MA,Gender Marker on Birth Certificate (adult),0.5
+Massachusetts,MA,Gender Marker on Birth Certificate (minor),0.5
+Massachusetts,MA,Gender Marker options on Birth Certificate,FALSE
+Massachusetts,MA,Name Change (adult),0
+Massachusetts,MA,Name Change (minor),-1
+Massachusetts,MA,Non Discrimination,1
+Massachusetts,MA,Foster Care Non Discrimination,TRUE
+Massachusetts,MA,Adoption Nondiscrimination,TRUE
+Massachusetts,MA,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Massachusetts,MA,Recognition of assisted Reproduction,FALSE
+Massachusetts,MA,VAP for Non-Genetic LGBTQ Parents,TRUE
+Massachusetts,MA,Gender Inclusive Bathroom Laws (Adult),TRUE
+Massachusetts,MA,Gender Inclusive Bathroom Laws (minor),TRUE
+Massachusetts,MA,LGBTQ Inclusive Curriculum,FALSE
+Massachusetts,MA,Anti-Bullying Legal Protections for TGNC* students,1
+Massachusetts,MA,Non-discrimination  Protections for LGBTQ Students,1
+Massachusetts,MA,Gay/ Trans Panic Defense Ban,TRUE
+Massachusetts,MA,Hate Crime Laws Specific to Gender Identity,TRUE
+Massachusetts,MA,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Massachusetts,MA,Gender Inclusive Correctional Housing ,FALSE
+Massachusetts,MA,Gender Affirming Care in Correctional Facilities,FALSE
+Massachusetts,MA,Trans Bathroom Ban K-12,0
+Massachusetts,MA,Trans Bathroom Ban in Schools and Government Buildings,0
+Massachusetts,MA,State Defines Sex,0
+Massachusetts,MA,Broad ‘RFRA’,0
+Massachusetts,MA,Religious Exemption for Child Welfare,0
+Massachusetts,MA,Religious Exemption for Medical Professionals,0
+Massachusetts,MA,Marriage Services and/or Marriage License Denial,0
+Massachusetts,MA,Drag Ban,0
+Massachusetts,MA,Don’t Say Gay,0
+Massachusetts,MA,Specific Subject Restrictions,0
+Massachusetts,MA,Parental Notification (opt-in or opt-out),0
+Massachusetts,MA,Sports Ban,0
+Massachusetts,MA,Forced Outing in Schools,0
+Massachusetts,MA,Ban on Best Practice Medical Care for Trans Youth,0
+Massachusetts,MA,Barriers to Identity Documents,0
+Massachusetts,MA,Abortion Access,0.5
+Massachusetts,MA,Interstate Abortion Shield Law,TRUE
+Michigan,MI,Shield Law,FALSE
+Michigan,MI,Gender Marker on ID (adult),1
+Michigan,MI,Gender Marker on ID (minor),
+Michigan,MI,Gender Marker options on ID,TRUE
+Michigan,MI,Gender Marker on Birth Certificate (adult),1
+Michigan,MI,Gender Marker on Birth Certificate (minor),1
+Michigan,MI,Gender Marker options on Birth Certificate,TRUE
+Michigan,MI,Name Change (adult),0
+Michigan,MI,Name Change (minor),0
+Michigan,MI,Non Discrimination,1
+Michigan,MI,Foster Care Non Discrimination,TRUE
+Michigan,MI,Adoption Nondiscrimination,TRUE
+Michigan,MI,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Michigan,MI,Recognition of assisted Reproduction,FALSE
+Michigan,MI,VAP for Non-Genetic LGBTQ Parents,FALSE
+Michigan,MI,Gender Inclusive Bathroom Laws (Adult),TRUE
+Michigan,MI,Gender Inclusive Bathroom Laws (minor),TRUE
+Michigan,MI,LGBTQ Inclusive Curriculum,FALSE
+Michigan,MI,Anti-Bullying Legal Protections for TGNC* students,0
+Michigan,MI,Non-discrimination  Protections for LGBTQ Students,1
+Michigan,MI,Gay/ Trans Panic Defense Ban,FALSE
+Michigan,MI,Hate Crime Laws Specific to Gender Identity,FALSE
+Michigan,MI,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Michigan,MI,Gender Inclusive Correctional Housing ,FALSE
+Michigan,MI,Gender Affirming Care in Correctional Facilities,FALSE
+Michigan,MI,Trans Bathroom Ban K-12,0
+Michigan,MI,Trans Bathroom Ban in Schools and Government Buildings,0
+Michigan,MI,State Defines Sex,0
+Michigan,MI,Broad ‘RFRA’,0
+Michigan,MI,Religious Exemption for Child Welfare,-1
+Michigan,MI,Religious Exemption for Medical Professionals,0
+Michigan,MI,Marriage Services and/or Marriage License Denial,0
+Michigan,MI,Drag Ban,0
+Michigan,MI,Don’t Say Gay,0
+Michigan,MI,Specific Subject Restrictions,0
+Michigan,MI,Parental Notification (opt-in or opt-out),0
+Michigan,MI,Sports Ban,0
+Michigan,MI,Forced Outing in Schools,0
+Michigan,MI,Ban on Best Practice Medical Care for Trans Youth,0
+Michigan,MI,Barriers to Identity Documents,0
+Michigan,MI,Abortion Access,0.5
+Michigan,MI,Interstate Abortion Shield Law,FALSE
+Minnesota,MN,Shield Law,TRUE
+Minnesota,MN,Gender Marker on ID (adult),1
+Minnesota,MN,Gender Marker on ID (minor),
+Minnesota,MN,Gender Marker options on ID,TRUE
+Minnesota,MN,Gender Marker on Birth Certificate (adult),0.5
+Minnesota,MN,Gender Marker on Birth Certificate (minor),0.5
+Minnesota,MN,Gender Marker options on Birth Certificate,FALSE
+Minnesota,MN,Name Change (adult),1
+Minnesota,MN,Name Change (minor),0.5
+Minnesota,MN,Non Discrimination,1
+Minnesota,MN,Foster Care Non Discrimination,TRUE
+Minnesota,MN,Adoption Nondiscrimination,TRUE
+Minnesota,MN,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Minnesota,MN,Recognition of assisted Reproduction,FALSE
+Minnesota,MN,VAP for Non-Genetic LGBTQ Parents,FALSE
+Minnesota,MN,Gender Inclusive Bathroom Laws (Adult),TRUE
+Minnesota,MN,Gender Inclusive Bathroom Laws (minor),TRUE
+Minnesota,MN,LGBTQ Inclusive Curriculum,FALSE
+Minnesota,MN,Anti-Bullying Legal Protections for TGNC* students,1
+Minnesota,MN,Non-discrimination  Protections for LGBTQ Students,1
+Minnesota,MN,Gay/ Trans Panic Defense Ban,TRUE
+Minnesota,MN,Hate Crime Laws Specific to Gender Identity,TRUE
+Minnesota,MN,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+Minnesota,MN,Gender Inclusive Correctional Housing ,FALSE
+Minnesota,MN,Gender Affirming Care in Correctional Facilities,FALSE
+Minnesota,MN,Trans Bathroom Ban K-12,0
+Minnesota,MN,Trans Bathroom Ban in Schools and Government Buildings,0
+Minnesota,MN,State Defines Sex,0
+Minnesota,MN,Broad ‘RFRA’,0
+Minnesota,MN,Religious Exemption for Child Welfare,0
+Minnesota,MN,Religious Exemption for Medical Professionals,0
+Minnesota,MN,Marriage Services and/or Marriage License Denial,0
+Minnesota,MN,Drag Ban,0
+Minnesota,MN,Don’t Say Gay,0
+Minnesota,MN,Specific Subject Restrictions,0
+Minnesota,MN,Parental Notification (opt-in or opt-out),0
+Minnesota,MN,Sports Ban,0
+Minnesota,MN,Forced Outing in Schools,0
+Minnesota,MN,Ban on Best Practice Medical Care for Trans Youth,0
+Minnesota,MN,Barriers to Identity Documents,0
+Minnesota,MN,Abortion Access,1
+Minnesota,MN,Interstate Abortion Shield Law,TRUE
+Mississippi,MS,Shield Law,FALSE
+Mississippi,MS,Gender Marker on ID (adult),-1
+Mississippi,MS,Gender Marker on ID (minor),
+Mississippi,MS,Gender Marker options on ID,FALSE
+Mississippi,MS,Gender Marker on Birth Certificate (adult),-1
+Mississippi,MS,Gender Marker on Birth Certificate (minor),-1
+Mississippi,MS,Gender Marker options on Birth Certificate,FALSE
+Mississippi,MS,Name Change (adult),1
+Mississippi,MS,Name Change (minor),1
+Mississippi,MS,Non Discrimination,-1
+Mississippi,MS,Foster Care Non Discrimination,FALSE
+Mississippi,MS,Adoption Nondiscrimination,FALSE
+Mississippi,MS,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Mississippi,MS,Recognition of assisted Reproduction,FALSE
+Mississippi,MS,VAP for Non-Genetic LGBTQ Parents,FALSE
+Mississippi,MS,Gender Inclusive Bathroom Laws (Adult),FALSE
+Mississippi,MS,Gender Inclusive Bathroom Laws (minor),FALSE
+Mississippi,MS,LGBTQ Inclusive Curriculum,FALSE
+Mississippi,MS,Anti-Bullying Legal Protections for TGNC* students,0
+Mississippi,MS,Non-discrimination  Protections for LGBTQ Students,0
+Mississippi,MS,Gay/ Trans Panic Defense Ban,FALSE
+Mississippi,MS,Hate Crime Laws Specific to Gender Identity,FALSE
+Mississippi,MS,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Mississippi,MS,Gender Inclusive Correctional Housing ,FALSE
+Mississippi,MS,Gender Affirming Care in Correctional Facilities,FALSE
+Mississippi,MS,Trans Bathroom Ban K-12,0
+Mississippi,MS,Trans Bathroom Ban in Schools and Government Buildings,0
+Mississippi,MS,State Defines Sex,0
+Mississippi,MS,Broad ‘RFRA’,-1
+Mississippi,MS,Religious Exemption for Child Welfare,-1
+Mississippi,MS,Religious Exemption for Medical Professionals,-1
+Mississippi,MS,Marriage Services and/or Marriage License Denial,-1
+Mississippi,MS,Drag Ban,0
+Mississippi,MS,Don’t Say Gay,0
+Mississippi,MS,Specific Subject Restrictions,-1
+Mississippi,MS,Parental Notification (opt-in or opt-out),0
+Mississippi,MS,Sports Ban,-1
+Mississippi,MS,Forced Outing in Schools,0
+Mississippi,MS,Ban on Best Practice Medical Care for Trans Youth,-1
+Mississippi,MS,Barriers to Identity Documents,0
+Mississippi,MS,Abortion Access,-1
+Mississippi,MS,Interstate Abortion Shield Law,FALSE
+Missouri,MO,Shield Law,FALSE
+Missouri,MO,Gender Marker on ID (adult),0.5
+Missouri,MO,Gender Marker on ID (minor),
+Missouri,MO,Gender Marker options on ID,FALSE
+Missouri,MO,Gender Marker on Birth Certificate (adult),-1
+Missouri,MO,Gender Marker on Birth Certificate (minor),-1
+Missouri,MO,Gender Marker options on Birth Certificate,FALSE
+Missouri,MO,Name Change (adult),-1
+Missouri,MO,Name Change (minor),-1
+Missouri,MO,Non Discrimination,-1
+Missouri,MO,Foster Care Non Discrimination,FALSE
+Missouri,MO,Adoption Nondiscrimination,FALSE
+Missouri,MO,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Missouri,MO,Recognition of assisted Reproduction,FALSE
+Missouri,MO,VAP for Non-Genetic LGBTQ Parents,FALSE
+Missouri,MO,Gender Inclusive Bathroom Laws (Adult),FALSE
+Missouri,MO,Gender Inclusive Bathroom Laws (minor),FALSE
+Missouri,MO,LGBTQ Inclusive Curriculum,FALSE
+Missouri,MO,Anti-Bullying Legal Protections for TGNC* students,-1
+Missouri,MO,Non-discrimination  Protections for LGBTQ Students,-1
+Missouri,MO,Gay/ Trans Panic Defense Ban,TRUE
+Missouri,MO,Hate Crime Laws Specific to Gender Identity,TRUE
+Missouri,MO,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Missouri,MO,Gender Inclusive Correctional Housing ,FALSE
+Missouri,MO,Gender Affirming Care in Correctional Facilities,FALSE
+Missouri,MO,Trans Bathroom Ban K-12,0
+Missouri,MO,Trans Bathroom Ban in Schools and Government Buildings,0
+Missouri,MO,State Defines Sex,0
+Missouri,MO,Broad ‘RFRA’,-1
+Missouri,MO,Religious Exemption for Child Welfare,0
+Missouri,MO,Religious Exemption for Medical Professionals,0
+Missouri,MO,Marriage Services and/or Marriage License Denial,0
+Missouri,MO,Drag Ban,0
+Missouri,MO,Don’t Say Gay,0
+Missouri,MO,Specific Subject Restrictions,0
+Missouri,MO,Parental Notification (opt-in or opt-out),0
+Missouri,MO,Sports Ban,-1
+Missouri,MO,Forced Outing in Schools,0
+Missouri,MO,Ban on Best Practice Medical Care for Trans Youth,-1
+Missouri,MO,Barriers to Identity Documents,0
+Missouri,MO,Abortion Access,-1
+Missouri,MO,Interstate Abortion Shield Law,FALSE
+Montana,MT,Shield Law,FALSE
+Montana,MT,Gender Marker on ID (adult),1
+Montana,MT,Gender Marker on ID (minor),
+Montana,MT,Gender Marker options on ID,FALSE
+Montana,MT,Gender Marker on Birth Certificate (adult),-1
+Montana,MT,Gender Marker on Birth Certificate (minor),-1
+Montana,MT,Gender Marker options on Birth Certificate,FALSE
+Montana,MT,Name Change (adult),1
+Montana,MT,Name Change (minor),0.5
+Montana,MT,Non Discrimination,-1
+Montana,MT,Foster Care Non Discrimination,FALSE
+Montana,MT,Adoption Nondiscrimination,FALSE
+Montana,MT,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Montana,MT,Recognition of assisted Reproduction,FALSE
+Montana,MT,VAP for Non-Genetic LGBTQ Parents,FALSE
+Montana,MT,Gender Inclusive Bathroom Laws (Adult),FALSE
+Montana,MT,Gender Inclusive Bathroom Laws (minor),FALSE
+Montana,MT,LGBTQ Inclusive Curriculum,FALSE
+Montana,MT,Anti-Bullying Legal Protections for TGNC* students,0
+Montana,MT,Non-discrimination  Protections for LGBTQ Students,0
+Montana,MT,Gay/ Trans Panic Defense Ban,FALSE
+Montana,MT,Hate Crime Laws Specific to Gender Identity,FALSE
+Montana,MT,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Montana,MT,Gender Inclusive Correctional Housing ,FALSE
+Montana,MT,Gender Affirming Care in Correctional Facilities,FALSE
+Montana,MT,Trans Bathroom Ban K-12,0
+Montana,MT,Trans Bathroom Ban in Schools and Government Buildings,0
+Montana,MT,State Defines Sex,-1
+Montana,MT,Broad ‘RFRA’,-1
+Montana,MT,Religious Exemption for Child Welfare,0
+Montana,MT,Religious Exemption for Medical Professionals,-1
+Montana,MT,Marriage Services and/or Marriage License Denial,0
+Montana,MT,Drag Ban,-0.5
+Montana,MT,Don’t Say Gay,0
+Montana,MT,Specific Subject Restrictions,0
+Montana,MT,Parental Notification (opt-in or opt-out),-1
+Montana,MT,Sports Ban,-1
+Montana,MT,Forced Outing in Schools,-0.5
+Montana,MT,Ban on Best Practice Medical Care for Trans Youth,-1
+Montana,MT,Barriers to Identity Documents,0
+Montana,MT,Abortion Access,0.5
+Montana,MT,Interstate Abortion Shield Law,FALSE
+Nebraska,NE,Shield Law,FALSE
+Nebraska,NE,Gender Marker on ID (adult),0
+Nebraska,NE,Gender Marker on ID (minor),
+Nebraska,NE,Gender Marker options on ID,FALSE
+Nebraska,NE,Gender Marker on Birth Certificate (adult),-1
+Nebraska,NE,Gender Marker on Birth Certificate (minor),-1
+Nebraska,NE,Gender Marker options on Birth Certificate,FALSE
+Nebraska,NE,Name Change (adult),0
+Nebraska,NE,Name Change (minor),0
+Nebraska,NE,Non Discrimination,0.5
+Nebraska,NE,Foster Care Non Discrimination,FALSE
+Nebraska,NE,Adoption Nondiscrimination,FALSE
+Nebraska,NE,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Nebraska,NE,Recognition of assisted Reproduction,FALSE
+Nebraska,NE,VAP for Non-Genetic LGBTQ Parents,FALSE
+Nebraska,NE,Gender Inclusive Bathroom Laws (Adult),TRUE
+Nebraska,NE,Gender Inclusive Bathroom Laws (minor),TRUE
+Nebraska,NE,LGBTQ Inclusive Curriculum,FALSE
+Nebraska,NE,Anti-Bullying Legal Protections for TGNC* students,0
+Nebraska,NE,Non-discrimination  Protections for LGBTQ Students,0
+Nebraska,NE,Gay/ Trans Panic Defense Ban,FALSE
+Nebraska,NE,Hate Crime Laws Specific to Gender Identity,FALSE
+Nebraska,NE,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Nebraska,NE,Gender Inclusive Correctional Housing ,FALSE
+Nebraska,NE,Gender Affirming Care in Correctional Facilities,FALSE
+Nebraska,NE,Trans Bathroom Ban K-12,0
+Nebraska,NE,Trans Bathroom Ban in Schools and Government Buildings,0
+Nebraska,NE,State Defines Sex,-1
+Nebraska,NE,Broad ‘RFRA’,0
+Nebraska,NE,Religious Exemption for Child Welfare,0
+Nebraska,NE,Religious Exemption for Medical Professionals,0
+Nebraska,NE,Marriage Services and/or Marriage License Denial,0
+Nebraska,NE,Drag Ban,0
+Nebraska,NE,Don’t Say Gay,0
+Nebraska,NE,Specific Subject Restrictions,0
+Nebraska,NE,Parental Notification (opt-in or opt-out),0
+Nebraska,NE,Sports Ban,0
+Nebraska,NE,Forced Outing in Schools,0
+Nebraska,NE,Ban on Best Practice Medical Care for Trans Youth,-1
+Nebraska,NE,Barriers to Identity Documents,0
+Nebraska,NE,Abortion Access,-0.5
+Nebraska,NE,Interstate Abortion Shield Law,FALSE
+Nevada,NV,Shield Law,FALSE
+Nevada,NV,Gender Marker on ID (adult),1
+Nevada,NV,Gender Marker on ID (minor),
+Nevada,NV,Gender Marker options on ID,TRUE
+Nevada,NV,Gender Marker on Birth Certificate (adult),1
+Nevada,NV,Gender Marker on Birth Certificate (minor),1
+Nevada,NV,Gender Marker options on Birth Certificate,TRUE
+Nevada,NV,Name Change (adult),1
+Nevada,NV,Name Change (minor),1
+Nevada,NV,Non Discrimination,1
+Nevada,NV,Foster Care Non Discrimination,TRUE
+Nevada,NV,Adoption Nondiscrimination,TRUE
+Nevada,NV,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Nevada,NV,Recognition of assisted Reproduction,TRUE
+Nevada,NV,VAP for Non-Genetic LGBTQ Parents,TRUE
+Nevada,NV,Gender Inclusive Bathroom Laws (Adult),TRUE
+Nevada,NV,Gender Inclusive Bathroom Laws (minor),TRUE
+Nevada,NV,LGBTQ Inclusive Curriculum,TRUE
+Nevada,NV,Anti-Bullying Legal Protections for TGNC* students,1
+Nevada,NV,Non-discrimination  Protections for LGBTQ Students,1
+Nevada,NV,Gay/ Trans Panic Defense Ban,TRUE
+Nevada,NV,Hate Crime Laws Specific to Gender Identity,TRUE
+Nevada,NV,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Nevada,NV,Gender Inclusive Correctional Housing ,FALSE
+Nevada,NV,Gender Affirming Care in Correctional Facilities,FALSE
+Nevada,NV,Trans Bathroom Ban K-12,0
+Nevada,NV,Trans Bathroom Ban in Schools and Government Buildings,0
+Nevada,NV,State Defines Sex,0
+Nevada,NV,Broad ‘RFRA’,0
+Nevada,NV,Religious Exemption for Child Welfare,0
+Nevada,NV,Religious Exemption for Medical Professionals,0
+Nevada,NV,Marriage Services and/or Marriage License Denial,0
+Nevada,NV,Drag Ban,0
+Nevada,NV,Don’t Say Gay,0
+Nevada,NV,Specific Subject Restrictions,0
+Nevada,NV,Parental Notification (opt-in or opt-out),0
+Nevada,NV,Sports Ban,0
+Nevada,NV,Forced Outing in Schools,0
+Nevada,NV,Ban on Best Practice Medical Care for Trans Youth,0
+Nevada,NV,Barriers to Identity Documents,0
+Nevada,NV,Abortion Access,0.5
+Nevada,NV,Interstate Abortion Shield Law,TRUE
+New Hampshire,NH,Shield Law,FALSE
+New Hampshire,NH,Gender Marker on ID (adult),1
+New Hampshire,NH,Gender Marker on ID (minor),
+New Hampshire,NH,Gender Marker options on ID,TRUE
+New Hampshire,NH,Gender Marker on Birth Certificate (adult),-1
+New Hampshire,NH,Gender Marker on Birth Certificate (minor),-1
+New Hampshire,NH,Gender Marker options on Birth Certificate,FALSE
+New Hampshire,NH,Name Change (adult),1
+New Hampshire,NH,Name Change (minor),1
+New Hampshire,NH,Non Discrimination,1
+New Hampshire,NH,Foster Care Non Discrimination,TRUE
+New Hampshire,NH,Adoption Nondiscrimination,TRUE
+New Hampshire,NH,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+New Hampshire,NH,Recognition of assisted Reproduction,TRUE
+New Hampshire,NH,VAP for Non-Genetic LGBTQ Parents,FALSE
+New Hampshire,NH,Gender Inclusive Bathroom Laws (Adult),FALSE
+New Hampshire,NH,Gender Inclusive Bathroom Laws (minor),FALSE
+New Hampshire,NH,LGBTQ Inclusive Curriculum,FALSE
+New Hampshire,NH,Anti-Bullying Legal Protections for TGNC* students,1
+New Hampshire,NH,Non-discrimination  Protections for LGBTQ Students,1
+New Hampshire,NH,Gay/ Trans Panic Defense Ban,TRUE
+New Hampshire,NH,Hate Crime Laws Specific to Gender Identity,TRUE
+New Hampshire,NH,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+New Hampshire,NH,Gender Inclusive Correctional Housing ,FALSE
+New Hampshire,NH,Gender Affirming Care in Correctional Facilities,FALSE
+New Hampshire,NH,Trans Bathroom Ban K-12,0
+New Hampshire,NH,Trans Bathroom Ban in Schools and Government Buildings,0
+New Hampshire,NH,State Defines Sex,0
+New Hampshire,NH,Broad ‘RFRA’,0
+New Hampshire,NH,Religious Exemption for Child Welfare,0
+New Hampshire,NH,Religious Exemption for Medical Professionals,0
+New Hampshire,NH,Marriage Services and/or Marriage License Denial,0
+New Hampshire,NH,Drag Ban,0
+New Hampshire,NH,Don’t Say Gay,0
+New Hampshire,NH,Specific Subject Restrictions,0
+New Hampshire,NH,Parental Notification (opt-in or opt-out),0
+New Hampshire,NH,Sports Ban,0
+New Hampshire,NH,Forced Outing in Schools,0
+New Hampshire,NH,Ban on Best Practice Medical Care for Trans Youth,0
+New Hampshire,NH,Barriers to Identity Documents,0
+New Hampshire,NH,Abortion Access,0
+New Hampshire,NH,Interstate Abortion Shield Law,FALSE
+New Jersey,NJ,Shield Law,TRUE
+New Jersey,NJ,Gender Marker on ID (adult),1
+New Jersey,NJ,Gender Marker on ID (minor),
+New Jersey,NJ,Gender Marker options on ID,TRUE
+New Jersey,NJ,Gender Marker on Birth Certificate (adult),1
+New Jersey,NJ,Gender Marker on Birth Certificate (minor),1
+New Jersey,NJ,Gender Marker options on Birth Certificate,TRUE
+New Jersey,NJ,Name Change (adult),1
+New Jersey,NJ,Name Change (minor),1
+New Jersey,NJ,Non Discrimination,1
+New Jersey,NJ,Foster Care Non Discrimination,TRUE
+New Jersey,NJ,Adoption Nondiscrimination,TRUE
+New Jersey,NJ,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+New Jersey,NJ,Recognition of assisted Reproduction,FALSE
+New Jersey,NJ,VAP for Non-Genetic LGBTQ Parents,FALSE
+New Jersey,NJ,Gender Inclusive Bathroom Laws (Adult),TRUE
+New Jersey,NJ,Gender Inclusive Bathroom Laws (minor),TRUE
+New Jersey,NJ,LGBTQ Inclusive Curriculum,TRUE
+New Jersey,NJ,Anti-Bullying Legal Protections for TGNC* students,1
+New Jersey,NJ,Non-discrimination  Protections for LGBTQ Students,1
+New Jersey,NJ,Gay/ Trans Panic Defense Ban,TRUE
+New Jersey,NJ,Hate Crime Laws Specific to Gender Identity,TRUE
+New Jersey,NJ,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+New Jersey,NJ,Gender Inclusive Correctional Housing ,TRUE
+New Jersey,NJ,Gender Affirming Care in Correctional Facilities,TRUE
+New Jersey,NJ,Trans Bathroom Ban K-12,0
+New Jersey,NJ,Trans Bathroom Ban in Schools and Government Buildings,0
+New Jersey,NJ,State Defines Sex,0
+New Jersey,NJ,Broad ‘RFRA’,0
+New Jersey,NJ,Religious Exemption for Child Welfare,0
+New Jersey,NJ,Religious Exemption for Medical Professionals,0
+New Jersey,NJ,Marriage Services and/or Marriage License Denial,0
+New Jersey,NJ,Drag Ban,0
+New Jersey,NJ,Don’t Say Gay,0
+New Jersey,NJ,Specific Subject Restrictions,0
+New Jersey,NJ,Parental Notification (opt-in or opt-out),0
+New Jersey,NJ,Sports Ban,0
+New Jersey,NJ,Forced Outing in Schools,0
+New Jersey,NJ,Ban on Best Practice Medical Care for Trans Youth,0
+New Jersey,NJ,Barriers to Identity Documents,0
+New Jersey,NJ,Abortion Access,1
+New Jersey,NJ,Interstate Abortion Shield Law,TRUE
+New Mexico,NM,Shield Law,TRUE
+New Mexico,NM,Gender Marker on ID (adult),1
+New Mexico,NM,Gender Marker on ID (minor),
+New Mexico,NM,Gender Marker options on ID,TRUE
+New Mexico,NM,Gender Marker on Birth Certificate (adult),1
+New Mexico,NM,Gender Marker on Birth Certificate (minor),1
+New Mexico,NM,Gender Marker options on Birth Certificate,TRUE
+New Mexico,NM,Name Change (adult),1
+New Mexico,NM,Name Change (minor),1
+New Mexico,NM,Non Discrimination,1
+New Mexico,NM,Foster Care Non Discrimination,TRUE
+New Mexico,NM,Adoption Nondiscrimination,TRUE
+New Mexico,NM,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+New Mexico,NM,Recognition of assisted Reproduction,TRUE
+New Mexico,NM,VAP for Non-Genetic LGBTQ Parents,FALSE
+New Mexico,NM,Gender Inclusive Bathroom Laws (Adult),TRUE
+New Mexico,NM,Gender Inclusive Bathroom Laws (minor),TRUE
+New Mexico,NM,LGBTQ Inclusive Curriculum,FALSE
+New Mexico,NM,Anti-Bullying Legal Protections for TGNC* students,1
+New Mexico,NM,Non-discrimination  Protections for LGBTQ Students,1
+New Mexico,NM,Gay/ Trans Panic Defense Ban,TRUE
+New Mexico,NM,Hate Crime Laws Specific to Gender Identity,TRUE
+New Mexico,NM,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+New Mexico,NM,Gender Inclusive Correctional Housing ,FALSE
+New Mexico,NM,Gender Affirming Care in Correctional Facilities,FALSE
+New Mexico,NM,Trans Bathroom Ban K-12,0
+New Mexico,NM,Trans Bathroom Ban in Schools and Government Buildings,0
+New Mexico,NM,State Defines Sex,0
+New Mexico,NM,Broad ‘RFRA’,-1
+New Mexico,NM,Religious Exemption for Child Welfare,0
+New Mexico,NM,Religious Exemption for Medical Professionals,0
+New Mexico,NM,Marriage Services and/or Marriage License Denial,0
+New Mexico,NM,Drag Ban,0
+New Mexico,NM,Don’t Say Gay,0
+New Mexico,NM,Specific Subject Restrictions,0
+New Mexico,NM,Parental Notification (opt-in or opt-out),0
+New Mexico,NM,Sports Ban,0
+New Mexico,NM,Forced Outing in Schools,0
+New Mexico,NM,Ban on Best Practice Medical Care for Trans Youth,0
+New Mexico,NM,Barriers to Identity Documents,0
+New Mexico,NM,Abortion Access,0
+New Mexico,NM,Interstate Abortion Shield Law,TRUE
+New York,NY,Shield Law,TRUE
+New York,NY,Gender Marker on ID (adult),1
+New York,NY,Gender Marker on ID (minor),
+New York,NY,Gender Marker options on ID,TRUE
+New York,NY,Gender Marker on Birth Certificate (adult),1
+New York,NY,Gender Marker on Birth Certificate (minor),1
+New York,NY,Gender Marker options on Birth Certificate,TRUE
+New York,NY,Name Change (adult),1
+New York,NY,Name Change (minor),1
+New York,NY,Non Discrimination,1
+New York,NY,Foster Care Non Discrimination,TRUE
+New York,NY,Adoption Nondiscrimination,TRUE
+New York,NY,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+New York,NY,Recognition of assisted Reproduction,TRUE
+New York,NY,VAP for Non-Genetic LGBTQ Parents,TRUE
+New York,NY,Gender Inclusive Bathroom Laws (Adult),TRUE
+New York,NY,Gender Inclusive Bathroom Laws (minor),TRUE
+New York,NY,LGBTQ Inclusive Curriculum,FALSE
+New York,NY,Anti-Bullying Legal Protections for TGNC* students,1
+New York,NY,Non-discrimination  Protections for LGBTQ Students,1
+New York,NY,Gay/ Trans Panic Defense Ban,TRUE
+New York,NY,Hate Crime Laws Specific to Gender Identity,TRUE
+New York,NY,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+New York,NY,Gender Inclusive Correctional Housing ,TRUE
+New York,NY,Gender Affirming Care in Correctional Facilities,TRUE
+New York,NY,Trans Bathroom Ban K-12,0
+New York,NY,Trans Bathroom Ban in Schools and Government Buildings,0
+New York,NY,State Defines Sex,0
+New York,NY,Broad ‘RFRA’,0
+New York,NY,Religious Exemption for Child Welfare,0
+New York,NY,Religious Exemption for Medical Professionals,0
+New York,NY,Marriage Services and/or Marriage License Denial,0
+New York,NY,Drag Ban,0
+New York,NY,Don’t Say Gay,0
+New York,NY,Specific Subject Restrictions,0
+New York,NY,Parental Notification (opt-in or opt-out),0
+New York,NY,Sports Ban,0
+New York,NY,Forced Outing in Schools,0
+New York,NY,Ban on Best Practice Medical Care for Trans Youth,0
+New York,NY,Barriers to Identity Documents,0
+New York,NY,Abortion Access,1
+New York,NY,Interstate Abortion Shield Law,TRUE
+North Carolina,NC,Shield Law,FALSE
+North Carolina,NC,Gender Marker on ID (adult),0.5
+North Carolina,NC,Gender Marker on ID (minor),
+North Carolina,NC,Gender Marker options on ID,FALSE
+North Carolina,NC,Gender Marker on Birth Certificate (adult),-1
+North Carolina,NC,Gender Marker on Birth Certificate (minor),-1
+North Carolina,NC,Gender Marker options on Birth Certificate,FALSE
+North Carolina,NC,Name Change (adult),-1
+North Carolina,NC,Name Change (minor),-1
+North Carolina,NC,Non Discrimination,-1
+North Carolina,NC,Foster Care Non Discrimination,TRUE
+North Carolina,NC,Adoption Nondiscrimination,TRUE
+North Carolina,NC,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+North Carolina,NC,Recognition of assisted Reproduction,FALSE
+North Carolina,NC,VAP for Non-Genetic LGBTQ Parents,FALSE
+North Carolina,NC,Gender Inclusive Bathroom Laws (Adult),FALSE
+North Carolina,NC,Gender Inclusive Bathroom Laws (minor),FALSE
+North Carolina,NC,LGBTQ Inclusive Curriculum,FALSE
+North Carolina,NC,Anti-Bullying Legal Protections for TGNC* students,1
+North Carolina,NC,Non-discrimination  Protections for LGBTQ Students,0
+North Carolina,NC,Gay/ Trans Panic Defense Ban,FALSE
+North Carolina,NC,Hate Crime Laws Specific to Gender Identity,FALSE
+North Carolina,NC,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+North Carolina,NC,Gender Inclusive Correctional Housing ,FALSE
+North Carolina,NC,Gender Affirming Care in Correctional Facilities,FALSE
+North Carolina,NC,Trans Bathroom Ban K-12,0
+North Carolina,NC,Trans Bathroom Ban in Schools and Government Buildings,0
+North Carolina,NC,State Defines Sex,0
+North Carolina,NC,Broad ‘RFRA’,0
+North Carolina,NC,Religious Exemption for Child Welfare,0
+North Carolina,NC,Religious Exemption for Medical Professionals,0
+North Carolina,NC,Marriage Services and/or Marriage License Denial,-1
+North Carolina,NC,Drag Ban,0
+North Carolina,NC,Don’t Say Gay,-1
+North Carolina,NC,Specific Subject Restrictions,0
+North Carolina,NC,Parental Notification (opt-in or opt-out),0
+North Carolina,NC,Sports Ban,-1
+North Carolina,NC,Forced Outing in Schools,-1
+North Carolina,NC,Ban on Best Practice Medical Care for Trans Youth,-1
+North Carolina,NC,Barriers to Identity Documents,0
+North Carolina,NC,Abortion Access,-0.5
+North Carolina,NC,Interstate Abortion Shield Law,FALSE
+North Dakota,ND,Shield Law,FALSE
+North Dakota,ND,Gender Marker on ID (adult),0.5
+North Dakota,ND,Gender Marker on ID (minor),
+North Dakota,ND,Gender Marker options on ID,FALSE
+North Dakota,ND,Gender Marker on Birth Certificate (adult),-1
+North Dakota,ND,Gender Marker on Birth Certificate (minor),-1
+North Dakota,ND,Gender Marker options on Birth Certificate,FALSE
+North Dakota,ND,Name Change (adult),0.5
+North Dakota,ND,Name Change (minor),0.5
+North Dakota,ND,Non Discrimination,1
+North Dakota,ND,Foster Care Non Discrimination,TRUE
+North Dakota,ND,Adoption Nondiscrimination,TRUE
+North Dakota,ND,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+North Dakota,ND,Recognition of assisted Reproduction,TRUE
+North Dakota,ND,VAP for Non-Genetic LGBTQ Parents,FALSE
+North Dakota,ND,Gender Inclusive Bathroom Laws (Adult),FALSE
+North Dakota,ND,Gender Inclusive Bathroom Laws (minor),FALSE
+North Dakota,ND,LGBTQ Inclusive Curriculum,FALSE
+North Dakota,ND,Anti-Bullying Legal Protections for TGNC* students,0
+North Dakota,ND,Non-discrimination  Protections for LGBTQ Students,1
+North Dakota,ND,Gay/ Trans Panic Defense Ban,FALSE
+North Dakota,ND,Hate Crime Laws Specific to Gender Identity,FALSE
+North Dakota,ND,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+North Dakota,ND,Gender Inclusive Correctional Housing ,FALSE
+North Dakota,ND,Gender Affirming Care in Correctional Facilities,FALSE
+North Dakota,ND,Trans Bathroom Ban K-12,-1
+North Dakota,ND,Trans Bathroom Ban in Schools and Government Buildings,0
+North Dakota,ND,State Defines Sex,-1
+North Dakota,ND,Broad ‘RFRA’,-1
+North Dakota,ND,Religious Exemption for Child Welfare,-1
+North Dakota,ND,Religious Exemption for Medical Professionals,0
+North Dakota,ND,Marriage Services and/or Marriage License Denial,0
+North Dakota,ND,Drag Ban,0
+North Dakota,ND,Don’t Say Gay,0
+North Dakota,ND,Specific Subject Restrictions,0
+North Dakota,ND,Parental Notification (opt-in or opt-out),0
+North Dakota,ND,Sports Ban,-1
+North Dakota,ND,Forced Outing in Schools,-1
+North Dakota,ND,Ban on Best Practice Medical Care for Trans Youth,-1
+North Dakota,ND,Barriers to Identity Documents,-1
+North Dakota,ND,Abortion Access,-1
+North Dakota,ND,Interstate Abortion Shield Law,FALSE
+Ohio,OH,Shield Law,FALSE
+Ohio,OH,Gender Marker on ID (adult),0.5
+Ohio,OH,Gender Marker on ID (minor),
+Ohio,OH,Gender Marker options on ID,FALSE
+Ohio,OH,Gender Marker on Birth Certificate (adult),-1
+Ohio,OH,Gender Marker on Birth Certificate (minor),-1
+Ohio,OH,Gender Marker options on Birth Certificate,TRUE
+Ohio,OH,Name Change (adult),0
+Ohio,OH,Name Change (minor),0
+Ohio,OH,Non Discrimination,-1
+Ohio,OH,Foster Care Non Discrimination,TRUE
+Ohio,OH,Adoption Nondiscrimination,TRUE
+Ohio,OH,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Ohio,OH,Recognition of assisted Reproduction,FALSE
+Ohio,OH,VAP for Non-Genetic LGBTQ Parents,FALSE
+Ohio,OH,Gender Inclusive Bathroom Laws (Adult),FALSE
+Ohio,OH,Gender Inclusive Bathroom Laws (minor),FALSE
+Ohio,OH,LGBTQ Inclusive Curriculum,FALSE
+Ohio,OH,Anti-Bullying Legal Protections for TGNC* students,0
+Ohio,OH,Non-discrimination  Protections for LGBTQ Students,0
+Ohio,OH,Gay/ Trans Panic Defense Ban,FALSE
+Ohio,OH,Hate Crime Laws Specific to Gender Identity,FALSE
+Ohio,OH,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Ohio,OH,Gender Inclusive Correctional Housing ,FALSE
+Ohio,OH,Gender Affirming Care in Correctional Facilities,FALSE
+Ohio,OH,Trans Bathroom Ban K-12,0
+Ohio,OH,Trans Bathroom Ban in Schools and Government Buildings,0
+Ohio,OH,State Defines Sex,0
+Ohio,OH,Broad ‘RFRA’,0
+Ohio,OH,Religious Exemption for Child Welfare,0
+Ohio,OH,Religious Exemption for Medical Professionals,-1
+Ohio,OH,Marriage Services and/or Marriage License Denial,0
+Ohio,OH,Drag Ban,0
+Ohio,OH,Don’t Say Gay,0
+Ohio,OH,Specific Subject Restrictions,0
+Ohio,OH,Parental Notification (opt-in or opt-out),0
+Ohio,OH,Sports Ban,-1
+Ohio,OH,Forced Outing in Schools,0
+Ohio,OH,Ban on Best Practice Medical Care for Trans Youth,-1
+Ohio,OH,Barriers to Identity Documents,0
+Ohio,OH,Abortion Access,0.5
+Ohio,OH,Interstate Abortion Shield Law,FALSE
+Oklahoma,OK,Shield Law,FALSE
+Oklahoma,OK,Gender Marker on ID (adult),-1
+Oklahoma,OK,Gender Marker on ID (minor),
+Oklahoma,OK,Gender Marker options on ID,FALSE
+Oklahoma,OK,Gender Marker on Birth Certificate (adult),-1
+Oklahoma,OK,Gender Marker on Birth Certificate (minor),-1
+Oklahoma,OK,Gender Marker options on Birth Certificate,FALSE
+Oklahoma,OK,Name Change (adult),0
+Oklahoma,OK,Name Change (minor),0
+Oklahoma,OK,Non Discrimination,-1
+Oklahoma,OK,Foster Care Non Discrimination,FALSE
+Oklahoma,OK,Adoption Nondiscrimination,FALSE
+Oklahoma,OK,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Oklahoma,OK,Recognition of assisted Reproduction,FALSE
+Oklahoma,OK,VAP for Non-Genetic LGBTQ Parents,FALSE
+Oklahoma,OK,Gender Inclusive Bathroom Laws (Adult),FALSE
+Oklahoma,OK,Gender Inclusive Bathroom Laws (minor),FALSE
+Oklahoma,OK,LGBTQ Inclusive Curriculum,FALSE
+Oklahoma,OK,Anti-Bullying Legal Protections for TGNC* students,0
+Oklahoma,OK,Non-discrimination  Protections for LGBTQ Students,0
+Oklahoma,OK,Gay/ Trans Panic Defense Ban,FALSE
+Oklahoma,OK,Hate Crime Laws Specific to Gender Identity,FALSE
+Oklahoma,OK,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Oklahoma,OK,Gender Inclusive Correctional Housing ,FALSE
+Oklahoma,OK,Gender Affirming Care in Correctional Facilities,FALSE
+Oklahoma,OK,Trans Bathroom Ban K-12,-1
+Oklahoma,OK,Trans Bathroom Ban in Schools and Government Buildings,0
+Oklahoma,OK,State Defines Sex,-1
+Oklahoma,OK,Broad ‘RFRA’,-1
+Oklahoma,OK,Religious Exemption for Child Welfare,-1
+Oklahoma,OK,Religious Exemption for Medical Professionals,0
+Oklahoma,OK,Marriage Services and/or Marriage License Denial,0
+Oklahoma,OK,Drag Ban,0
+Oklahoma,OK,Don’t Say Gay,0
+Oklahoma,OK,Specific Subject Restrictions,-1
+Oklahoma,OK,Parental Notification (opt-in or opt-out),0
+Oklahoma,OK,Sports Ban,-1
+Oklahoma,OK,Forced Outing in Schools,0
+Oklahoma,OK,Ban on Best Practice Medical Care for Trans Youth,-1
+Oklahoma,OK,Barriers to Identity Documents,-1
+Oklahoma,OK,Abortion Access,-1
+Oklahoma,OK,Interstate Abortion Shield Law,FALSE
+Oregon,OR,Shield Law,TRUE
+Oregon,OR,Gender Marker on ID (adult),1
+Oregon,OR,Gender Marker on ID (minor),
+Oregon,OR,Gender Marker options on ID,TRUE
+Oregon,OR,Gender Marker on Birth Certificate (adult),1
+Oregon,OR,Gender Marker on Birth Certificate (minor),1
+Oregon,OR,Gender Marker options on Birth Certificate,TRUE
+Oregon,OR,Name Change (adult),1
+Oregon,OR,Name Change (minor),1
+Oregon,OR,Non Discrimination,1
+Oregon,OR,Foster Care Non Discrimination,TRUE
+Oregon,OR,Adoption Nondiscrimination,TRUE
+Oregon,OR,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Oregon,OR,Recognition of assisted Reproduction,FALSE
+Oregon,OR,VAP for Non-Genetic LGBTQ Parents,FALSE
+Oregon,OR,Gender Inclusive Bathroom Laws (Adult),TRUE
+Oregon,OR,Gender Inclusive Bathroom Laws (minor),TRUE
+Oregon,OR,LGBTQ Inclusive Curriculum,TRUE
+Oregon,OR,Anti-Bullying Legal Protections for TGNC* students,1
+Oregon,OR,Non-discrimination  Protections for LGBTQ Students,1
+Oregon,OR,Gay/ Trans Panic Defense Ban,TRUE
+Oregon,OR,Hate Crime Laws Specific to Gender Identity,TRUE
+Oregon,OR,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+Oregon,OR,Gender Inclusive Correctional Housing ,FALSE
+Oregon,OR,Gender Affirming Care in Correctional Facilities,FALSE
+Oregon,OR,Trans Bathroom Ban K-12,0
+Oregon,OR,Trans Bathroom Ban in Schools and Government Buildings,0
+Oregon,OR,State Defines Sex,0
+Oregon,OR,Broad ‘RFRA’,0
+Oregon,OR,Religious Exemption for Child Welfare,0
+Oregon,OR,Religious Exemption for Medical Professionals,0
+Oregon,OR,Marriage Services and/or Marriage License Denial,0
+Oregon,OR,Drag Ban,0
+Oregon,OR,Don’t Say Gay,0
+Oregon,OR,Specific Subject Restrictions,0
+Oregon,OR,Parental Notification (opt-in or opt-out),0
+Oregon,OR,Sports Ban,0
+Oregon,OR,Forced Outing in Schools,0
+Oregon,OR,Ban on Best Practice Medical Care for Trans Youth,0
+Oregon,OR,Barriers to Identity Documents,0
+Oregon,OR,Abortion Access,1
+Oregon,OR,Interstate Abortion Shield Law,TRUE
+Pennsylvania,PA,Shield Law,FALSE
+Pennsylvania,PA,Gender Marker on ID (adult),1
+Pennsylvania,PA,Gender Marker on ID (minor),
+Pennsylvania,PA,Gender Marker options on ID,TRUE
+Pennsylvania,PA,Gender Marker on Birth Certificate (adult),1
+Pennsylvania,PA,Gender Marker on Birth Certificate (minor),1
+Pennsylvania,PA,Gender Marker options on Birth Certificate,FALSE
+Pennsylvania,PA,Name Change (adult),0
+Pennsylvania,PA,Name Change (minor),0
+Pennsylvania,PA,Non Discrimination,1
+Pennsylvania,PA,Foster Care Non Discrimination,FALSE
+Pennsylvania,PA,Adoption Nondiscrimination,FALSE
+Pennsylvania,PA,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Pennsylvania,PA,Recognition of assisted Reproduction,FALSE
+Pennsylvania,PA,VAP for Non-Genetic LGBTQ Parents,FALSE
+Pennsylvania,PA,Gender Inclusive Bathroom Laws (Adult),FALSE
+Pennsylvania,PA,Gender Inclusive Bathroom Laws (minor),FALSE
+Pennsylvania,PA,LGBTQ Inclusive Curriculum,FALSE
+Pennsylvania,PA,Anti-Bullying Legal Protections for TGNC* students,0
+Pennsylvania,PA,Non-discrimination  Protections for LGBTQ Students,1
+Pennsylvania,PA,Gay/ Trans Panic Defense Ban,FALSE
+Pennsylvania,PA,Hate Crime Laws Specific to Gender Identity,FALSE
+Pennsylvania,PA,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Pennsylvania,PA,Gender Inclusive Correctional Housing ,FALSE
+Pennsylvania,PA,Gender Affirming Care in Correctional Facilities,FALSE
+Pennsylvania,PA,Trans Bathroom Ban K-12,0
+Pennsylvania,PA,Trans Bathroom Ban in Schools and Government Buildings,0
+Pennsylvania,PA,State Defines Sex,0
+Pennsylvania,PA,Broad ‘RFRA’,-1
+Pennsylvania,PA,Religious Exemption for Child Welfare,0
+Pennsylvania,PA,Religious Exemption for Medical Professionals,0
+Pennsylvania,PA,Marriage Services and/or Marriage License Denial,0
+Pennsylvania,PA,Drag Ban,0
+Pennsylvania,PA,Don’t Say Gay,0
+Pennsylvania,PA,Specific Subject Restrictions,0
+Pennsylvania,PA,Parental Notification (opt-in or opt-out),0
+Pennsylvania,PA,Sports Ban,0
+Pennsylvania,PA,Forced Outing in Schools,0
+Pennsylvania,PA,Ban on Best Practice Medical Care for Trans Youth,0
+Pennsylvania,PA,Barriers to Identity Documents,0
+Pennsylvania,PA,Abortion Access,-0.5
+Pennsylvania,PA,Interstate Abortion Shield Law,FALSE
+Rhode Island,RI,Shield Law,FALSE
+Rhode Island,RI,Gender Marker on ID (adult),1
+Rhode Island,RI,Gender Marker on ID (minor),
+Rhode Island,RI,Gender Marker options on ID,TRUE
+Rhode Island,RI,Gender Marker on Birth Certificate (adult),1
+Rhode Island,RI,Gender Marker on Birth Certificate (minor),1
+Rhode Island,RI,Gender Marker options on Birth Certificate,TRUE
+Rhode Island,RI,Name Change (adult),0
+Rhode Island,RI,Name Change (minor),0
+Rhode Island,RI,Non Discrimination,1
+Rhode Island,RI,Foster Care Non Discrimination,TRUE
+Rhode Island,RI,Adoption Nondiscrimination,TRUE
+Rhode Island,RI,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Rhode Island,RI,Recognition of assisted Reproduction,TRUE
+Rhode Island,RI,VAP for Non-Genetic LGBTQ Parents,TRUE
+Rhode Island,RI,Gender Inclusive Bathroom Laws (Adult),TRUE
+Rhode Island,RI,Gender Inclusive Bathroom Laws (minor),TRUE
+Rhode Island,RI,LGBTQ Inclusive Curriculum,FALSE
+Rhode Island,RI,Anti-Bullying Legal Protections for TGNC* students,1
+Rhode Island,RI,Non-discrimination  Protections for LGBTQ Students,0.5
+Rhode Island,RI,Gay/ Trans Panic Defense Ban,FALSE
+Rhode Island,RI,Hate Crime Laws Specific to Gender Identity,FALSE
+Rhode Island,RI,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Rhode Island,RI,Gender Inclusive Correctional Housing ,FALSE
+Rhode Island,RI,Gender Affirming Care in Correctional Facilities,FALSE
+Rhode Island,RI,Trans Bathroom Ban K-12,0
+Rhode Island,RI,Trans Bathroom Ban in Schools and Government Buildings,0
+Rhode Island,RI,State Defines Sex,0
+Rhode Island,RI,Broad ‘RFRA’,-1
+Rhode Island,RI,Religious Exemption for Child Welfare,0
+Rhode Island,RI,Religious Exemption for Medical Professionals,0
+Rhode Island,RI,Marriage Services and/or Marriage License Denial,0
+Rhode Island,RI,Drag Ban,0
+Rhode Island,RI,Don’t Say Gay,0
+Rhode Island,RI,Specific Subject Restrictions,0
+Rhode Island,RI,Parental Notification (opt-in or opt-out),0
+Rhode Island,RI,Sports Ban,0
+Rhode Island,RI,Forced Outing in Schools,0
+Rhode Island,RI,Ban on Best Practice Medical Care for Trans Youth,0
+Rhode Island,RI,Barriers to Identity Documents,0
+Rhode Island,RI,Abortion Access,0.5
+Rhode Island,RI,Interstate Abortion Shield Law,FALSE
+South Carolina,SC,Shield Law,FALSE
+South Carolina,SC,Gender Marker on ID (adult),-1
+South Carolina,SC,Gender Marker on ID (minor),
+South Carolina,SC,Gender Marker options on ID,FALSE
+South Carolina,SC,Gender Marker on Birth Certificate (adult),-1
+South Carolina,SC,Gender Marker on Birth Certificate (minor),-1
+South Carolina,SC,Gender Marker options on Birth Certificate,FALSE
+South Carolina,SC,Name Change (adult),1
+South Carolina,SC,Name Change (minor),1
+South Carolina,SC,Non Discrimination,-1
+South Carolina,SC,Foster Care Non Discrimination,FALSE
+South Carolina,SC,Adoption Nondiscrimination,FALSE
+South Carolina,SC,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+South Carolina,SC,Recognition of assisted Reproduction,FALSE
+South Carolina,SC,VAP for Non-Genetic LGBTQ Parents,FALSE
+South Carolina,SC,Gender Inclusive Bathroom Laws (Adult),FALSE
+South Carolina,SC,Gender Inclusive Bathroom Laws (minor),FALSE
+South Carolina,SC,LGBTQ Inclusive Curriculum,FALSE
+South Carolina,SC,Anti-Bullying Legal Protections for TGNC* students,0
+South Carolina,SC,Non-discrimination  Protections for LGBTQ Students,0
+South Carolina,SC,Gay/ Trans Panic Defense Ban,FALSE
+South Carolina,SC,Hate Crime Laws Specific to Gender Identity,FALSE
+South Carolina,SC,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+South Carolina,SC,Gender Inclusive Correctional Housing ,FALSE
+South Carolina,SC,Gender Affirming Care in Correctional Facilities,FALSE
+South Carolina,SC,Trans Bathroom Ban K-12,0
+South Carolina,SC,Trans Bathroom Ban in Schools and Government Buildings,0
+South Carolina,SC,State Defines Sex,0
+South Carolina,SC,Broad ‘RFRA’,-1
+South Carolina,SC,Religious Exemption for Child Welfare,-1
+South Carolina,SC,Religious Exemption for Medical Professionals,-1
+South Carolina,SC,Marriage Services and/or Marriage License Denial,0
+South Carolina,SC,Drag Ban,0
+South Carolina,SC,Don’t Say Gay,0
+South Carolina,SC,Specific Subject Restrictions,0
+South Carolina,SC,Parental Notification (opt-in or opt-out),0
+South Carolina,SC,Sports Ban,-1
+South Carolina,SC,Forced Outing in Schools,0
+South Carolina,SC,Ban on Best Practice Medical Care for Trans Youth,0
+South Carolina,SC,Barriers to Identity Documents,0
+South Carolina,SC,Abortion Access,-0.5
+South Carolina,SC,Interstate Abortion Shield Law,FALSE
+South Dakota,SD,Shield Law,FALSE
+South Dakota,SD,Gender Marker on ID (adult),-1
+South Dakota,SD,Gender Marker on ID (minor),
+South Dakota,SD,Gender Marker options on ID,FALSE
+South Dakota,SD,Gender Marker on Birth Certificate (adult),-1
+South Dakota,SD,Gender Marker on Birth Certificate (minor),-1
+South Dakota,SD,Gender Marker options on Birth Certificate,FALSE
+South Dakota,SD,Name Change (adult),0
+South Dakota,SD,Name Change (minor),0.5
+South Dakota,SD,Non Discrimination,-1
+South Dakota,SD,Foster Care Non Discrimination,TRUE
+South Dakota,SD,Adoption Nondiscrimination,TRUE
+South Dakota,SD,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+South Dakota,SD,Recognition of assisted Reproduction,FALSE
+South Dakota,SD,VAP for Non-Genetic LGBTQ Parents,FALSE
+South Dakota,SD,Gender Inclusive Bathroom Laws (Adult),FALSE
+South Dakota,SD,Gender Inclusive Bathroom Laws (minor),FALSE
+South Dakota,SD,LGBTQ Inclusive Curriculum,FALSE
+South Dakota,SD,Anti-Bullying Legal Protections for TGNC* students,-1
+South Dakota,SD,Non-discrimination  Protections for LGBTQ Students,-1
+South Dakota,SD,Gay/ Trans Panic Defense Ban,FALSE
+South Dakota,SD,Hate Crime Laws Specific to Gender Identity,FALSE
+South Dakota,SD,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+South Dakota,SD,Gender Inclusive Correctional Housing ,FALSE
+South Dakota,SD,Gender Affirming Care in Correctional Facilities,FALSE
+South Dakota,SD,Trans Bathroom Ban K-12,0
+South Dakota,SD,Trans Bathroom Ban in Schools and Government Buildings,0
+South Dakota,SD,State Defines Sex,0
+South Dakota,SD,Broad ‘RFRA’,-1
+South Dakota,SD,Religious Exemption for Child Welfare,-1
+South Dakota,SD,Religious Exemption for Medical Professionals,0
+South Dakota,SD,Marriage Services and/or Marriage License Denial,0
+South Dakota,SD,Drag Ban,0
+South Dakota,SD,Don’t Say Gay,0
+South Dakota,SD,Specific Subject Restrictions,0
+South Dakota,SD,Parental Notification (opt-in or opt-out),0
+South Dakota,SD,Sports Ban,-1
+South Dakota,SD,Forced Outing in Schools,0
+South Dakota,SD,Ban on Best Practice Medical Care for Trans Youth,-1
+South Dakota,SD,Barriers to Identity Documents,0
+South Dakota,SD,Abortion Access,-1
+South Dakota,SD,Interstate Abortion Shield Law,FALSE
+Tennesseee,TN,Shield Law,FALSE
+Tennessee,TN,Gender Marker on ID (adult),-1
+Tennessee,TN,Gender Marker on ID (minor),
+Tennessee,TN,Gender Marker options on ID,FALSE
+Tennessee,TN,Gender Marker on Birth Certificate (adult),-1
+Tennessee,TN,Gender Marker on Birth Certificate (minor),-1
+Tennessee,TN,Gender Marker options on Birth Certificate,FALSE
+Tennessee,TN,Name Change (adult),1
+Tennessee,TN,Name Change (minor),1
+Tennessee,TN,Non Discrimination,-1
+Tennessee,TN,Foster Care Non Discrimination,TRUE
+Tennessee,TN,Adoption Nondiscrimination,TRUE
+Tennessee,TN,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Tennessee,TN,Recognition of assisted Reproduction,FALSE
+Tennessee,TN,VAP for Non-Genetic LGBTQ Parents,FALSE
+Tennessee,TN,Gender Inclusive Bathroom Laws (Adult),FALSE
+Tennessee,TN,Gender Inclusive Bathroom Laws (minor),FALSE
+Tennessee,TN,LGBTQ Inclusive Curriculum,FALSE
+Tennessee,TN,Anti-Bullying Legal Protections for TGNC* students,0
+Tennessee,TN,Non-discrimination  Protections for LGBTQ Students,0
+Tennessee,TN,Gay/ Trans Panic Defense Ban,FALSE
+Tennessee,TN,Hate Crime Laws Specific to Gender Identity,FALSE
+Tennessee,TN,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Tennessee,TN,Gender Inclusive Correctional Housing ,FALSE
+Tennessee,TN,Gender Affirming Care in Correctional Facilities,FALSE
+Tennessee,TN,Trans Bathroom Ban K-12,-1
+Tennessee,TN,Trans Bathroom Ban in Schools and Government Buildings,0
+Tennessee,TN,State Defines Sex,-1
+Tennessee,TN,Broad ‘RFRA’,-1
+Tennessee,TN,Religious Exemption for Child Welfare,-1
+Tennessee,TN,Religious Exemption for Medical Professionals,-1
+Tennessee,TN,Marriage Services and/or Marriage License Denial,0
+Tennessee,TN,Drag Ban,-0.5
+Tennessee,TN,Don’t Say Gay,0
+Tennessee,TN,Specific Subject Restrictions,0
+Tennessee,TN,Parental Notification (opt-in or opt-out),-1
+Tennessee,TN,Sports Ban,-1
+Tennessee,TN,Forced Outing in Schools,0
+Tennessee,TN,Ban on Best Practice Medical Care for Trans Youth,-1
+Tennessee,TN,Barriers to Identity Documents,-1
+Tennessee,TN,Abortion Access,-1
+Tennessee,TN,Interstate Abortion Shield Law,FALSE
+Texas,TX,Shield Law,FALSE
+Texas,TX,Gender Marker on ID (adult),-1
+Texas,TX,Gender Marker on ID (minor),
+Texas,TX,Gender Marker options on ID,FALSE
+Texas,TX,Gender Marker on Birth Certificate (adult),-1
+Texas,TX,Gender Marker on Birth Certificate (minor),-1
+Texas,TX,Gender Marker options on Birth Certificate,FALSE
+Texas,TX,Name Change (adult),1
+Texas,TX,Name Change (minor),1
+Texas,TX,Non Discrimination,-1
+Texas,TX,Foster Care Non Discrimination,FALSE
+Texas,TX,Adoption Nondiscrimination,FALSE
+Texas,TX,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Texas,TX,Recognition of assisted Reproduction,FALSE
+Texas,TX,VAP for Non-Genetic LGBTQ Parents,FALSE
+Texas,TX,Gender Inclusive Bathroom Laws (Adult),FALSE
+Texas,TX,Gender Inclusive Bathroom Laws (minor),FALSE
+Texas,TX,LGBTQ Inclusive Curriculum,FALSE
+Texas,TX,Anti-Bullying Legal Protections for TGNC* students,0
+Texas,TX,Non-discrimination  Protections for LGBTQ Students,0
+Texas,TX,Gay/ Trans Panic Defense Ban,FALSE
+Texas,TX,Hate Crime Laws Specific to Gender Identity,FALSE
+Texas,TX,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Texas,TX,Gender Inclusive Correctional Housing ,FALSE
+Texas,TX,Gender Affirming Care in Correctional Facilities,FALSE
+Texas,TX,Trans Bathroom Ban K-12,0
+Texas,TX,Trans Bathroom Ban in Schools and Government Buildings,0
+Texas,TX,State Defines Sex,0
+Texas,TX,Broad ‘RFRA’,-1
+Texas,TX,Religious Exemption for Child Welfare,-1
+Texas,TX,Religious Exemption for Medical Professionals,0
+Texas,TX,Marriage Services and/or Marriage License Denial,0
+Texas,TX,Drag Ban,0
+Texas,TX,Don’t Say Gay,0
+Texas,TX,Specific Subject Restrictions,-1
+Texas,TX,Parental Notification (opt-in or opt-out),0
+Texas,TX,Sports Ban,-1
+Texas,TX,Forced Outing in Schools,0
+Texas,TX,Ban on Best Practice Medical Care for Trans Youth,-1
+Texas,TX,Barriers to Identity Documents,0
+Texas,TX,Abortion Access,-1
+Texas,TX,Interstate Abortion Shield Law,FALSE
+Utah,UT,Shield Law,FALSE
+Utah,UT,Gender Marker on ID (adult),-1
+Utah,UT,Gender Marker on ID (minor),
+Utah,UT,Gender Marker options on ID,TRUE
+Utah,UT,Gender Marker on Birth Certificate (adult),-1
+Utah,UT,Gender Marker on Birth Certificate (minor),-1
+Utah,UT,Gender Marker options on Birth Certificate,TRUE
+Utah,UT,Name Change (adult),1
+Utah,UT,Name Change (minor),1
+Utah,UT,Non Discrimination,0.5
+Utah,UT,Foster Care Non Discrimination,FALSE
+Utah,UT,Adoption Nondiscrimination,FALSE
+Utah,UT,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Utah,UT,Recognition of assisted Reproduction,FALSE
+Utah,UT,VAP for Non-Genetic LGBTQ Parents,FALSE
+Utah,UT,Gender Inclusive Bathroom Laws (Adult),FALSE
+Utah,UT,Gender Inclusive Bathroom Laws (minor),FALSE
+Utah,UT,LGBTQ Inclusive Curriculum,FALSE
+Utah,UT,Anti-Bullying Legal Protections for TGNC* students,0.5
+Utah,UT,Non-discrimination  Protections for LGBTQ Students,0.5
+Utah,UT,Gay/ Trans Panic Defense Ban,TRUE
+Utah,UT,Hate Crime Laws Specific to Gender Identity,TRUE
+Utah,UT,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Utah,UT,Gender Inclusive Correctional Housing ,FALSE
+Utah,UT,Gender Affirming Care in Correctional Facilities,FALSE
+Utah,UT,Trans Bathroom Ban K-12,-1
+Utah,UT,Trans Bathroom Ban in Schools and Government Buildings,-1
+Utah,UT,State Defines Sex,-1
+Utah,UT,Broad ‘RFRA’,0
+Utah,UT,Religious Exemption for Child Welfare,-1
+Utah,UT,Religious Exemption for Medical Professionals,0
+Utah,UT,Marriage Services and/or Marriage License Denial,0
+Utah,UT,Drag Ban,0
+Utah,UT,Don’t Say Gay,0
+Utah,UT,Specific Subject Restrictions,0
+Utah,UT,Parental Notification (opt-in or opt-out),0
+Utah,UT,Sports Ban,-1
+Utah,UT,Forced Outing in Schools,-0.5
+Utah,UT,Ban on Best Practice Medical Care for Trans Youth,-1
+Utah,UT,Barriers to Identity Documents,0
+Utah,UT,Abortion Access,0.5
+Utah,UT,Interstate Abortion Shield Law,FALSE
+Vermont,VT,Shield Law,TRUE
+Vermont,VT,Gender Marker on ID (adult),1
+Vermont,VT,Gender Marker on ID (minor),
+Vermont,VT,Gender Marker options on ID,TRUE
+Vermont,VT,Gender Marker on Birth Certificate (adult),1
+Vermont,VT,Gender Marker on Birth Certificate (minor),1
+Vermont,VT,Gender Marker options on Birth Certificate,TRUE
+Vermont,VT,Name Change (adult),1
+Vermont,VT,Name Change (minor),1
+Vermont,VT,Non Discrimination,1
+Vermont,VT,Foster Care Non Discrimination,TRUE
+Vermont,VT,Adoption Nondiscrimination,TRUE
+Vermont,VT,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Vermont,VT,Recognition of assisted Reproduction,TRUE
+Vermont,VT,VAP for Non-Genetic LGBTQ Parents,TRUE
+Vermont,VT,Gender Inclusive Bathroom Laws (Adult),TRUE
+Vermont,VT,Gender Inclusive Bathroom Laws (minor),TRUE
+Vermont,VT,LGBTQ Inclusive Curriculum,FALSE
+Vermont,VT,Anti-Bullying Legal Protections for TGNC* students,1
+Vermont,VT,Non-discrimination  Protections for LGBTQ Students,1
+Vermont,VT,Gay/ Trans Panic Defense Ban,TRUE
+Vermont,VT,Hate Crime Laws Specific to Gender Identity,TRUE
+Vermont,VT,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Vermont,VT,Gender Inclusive Correctional Housing ,FALSE
+Vermont,VT,Gender Affirming Care in Correctional Facilities,FALSE
+Vermont,VT,Trans Bathroom Ban K-12,0
+Vermont,VT,Trans Bathroom Ban in Schools and Government Buildings,0
+Vermont,VT,State Defines Sex,0
+Vermont,VT,Broad ‘RFRA’,0
+Vermont,VT,Religious Exemption for Child Welfare,0
+Vermont,VT,Religious Exemption for Medical Professionals,0
+Vermont,VT,Marriage Services and/or Marriage License Denial,0
+Vermont,VT,Drag Ban,0
+Vermont,VT,Don’t Say Gay,0
+Vermont,VT,Specific Subject Restrictions,0
+Vermont,VT,Parental Notification (opt-in or opt-out),0
+Vermont,VT,Sports Ban,0
+Vermont,VT,Forced Outing in Schools,0
+Vermont,VT,Ban on Best Practice Medical Care for Trans Youth,0
+Vermont,VT,Barriers to Identity Documents,0
+Vermont,VT,Abortion Access,1
+Vermont,VT,Interstate Abortion Shield Law,TRUE
+Virginia,VA,Shield Law,FALSE
+Virginia,VA,Gender Marker on ID (adult),1
+Virginia,VA,Gender Marker on ID (minor),
+Virginia,VA,Gender Marker options on ID,TRUE
+Virginia,VA,Gender Marker on Birth Certificate (adult),0.5
+Virginia,VA,Gender Marker on Birth Certificate (minor),0.5
+Virginia,VA,Gender Marker options on Birth Certificate,FALSE
+Virginia,VA,Name Change (adult),1
+Virginia,VA,Name Change (minor),1
+Virginia,VA,Non Discrimination,1
+Virginia,VA,Foster Care Non Discrimination,FALSE
+Virginia,VA,Adoption Nondiscrimination,FALSE
+Virginia,VA,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Virginia,VA,Recognition of assisted Reproduction,FALSE
+Virginia,VA,VAP for Non-Genetic LGBTQ Parents,FALSE
+Virginia,VA,Gender Inclusive Bathroom Laws (Adult),FALSE
+Virginia,VA,Gender Inclusive Bathroom Laws (minor),FALSE
+Virginia,VA,LGBTQ Inclusive Curriculum,FALSE
+Virginia,VA,Anti-Bullying Legal Protections for TGNC* students,0
+Virginia,VA,Non-discrimination  Protections for LGBTQ Students,1
+Virginia,VA,Gay/ Trans Panic Defense Ban,TRUE
+Virginia,VA,Hate Crime Laws Specific to Gender Identity,TRUE
+Virginia,VA,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Virginia,VA,Gender Inclusive Correctional Housing ,FALSE
+Virginia,VA,Gender Affirming Care in Correctional Facilities,FALSE
+Virginia,VA,Trans Bathroom Ban K-12,0
+Virginia,VA,Trans Bathroom Ban in Schools and Government Buildings,0
+Virginia,VA,State Defines Sex,0
+Virginia,VA,Broad ‘RFRA’,-1
+Virginia,VA,Religious Exemption for Child Welfare,-1
+Virginia,VA,Religious Exemption for Medical Professionals,0
+Virginia,VA,Marriage Services and/or Marriage License Denial,0
+Virginia,VA,Drag Ban,0
+Virginia,VA,Don’t Say Gay,0
+Virginia,VA,Specific Subject Restrictions,0
+Virginia,VA,Parental Notification (opt-in or opt-out),0
+Virginia,VA,Sports Ban,0
+Virginia,VA,Forced Outing in Schools,0
+Virginia,VA,Ban on Best Practice Medical Care for Trans Youth,0
+Virginia,VA,Barriers to Identity Documents,0
+Virginia,VA,Abortion Access,-0.5
+Virginia,VA,Interstate Abortion Shield Law,FALSE
+Washington,WA,Shield Law,TRUE
+Washington,WA,Gender Marker on ID (adult),1
+Washington,WA,Gender Marker on ID (minor),
+Washington,WA,Gender Marker options on ID,TRUE
+Washington,WA,Gender Marker on Birth Certificate (adult),1
+Washington,WA,Gender Marker on Birth Certificate (minor),0.5
+Washington,WA,Gender Marker options on Birth Certificate,TRUE
+Washington,WA,Name Change (adult),1
+Washington,WA,Name Change (minor),1
+Washington,WA,Non Discrimination,1
+Washington,WA,Foster Care Non Discrimination,TRUE
+Washington,WA,Adoption Nondiscrimination,TRUE
+Washington,WA,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+Washington,WA,Recognition of assisted Reproduction,TRUE
+Washington,WA,VAP for Non-Genetic LGBTQ Parents,TRUE
+Washington,WA,Gender Inclusive Bathroom Laws (Adult),TRUE
+Washington,WA,Gender Inclusive Bathroom Laws (minor),TRUE
+Washington,WA,LGBTQ Inclusive Curriculum,FALSE
+Washington,WA,Anti-Bullying Legal Protections for TGNC* students,1
+Washington,WA,Non-discrimination  Protections for LGBTQ Students,1
+Washington,WA,Gay/ Trans Panic Defense Ban,TRUE
+Washington,WA,Hate Crime Laws Specific to Gender Identity,TRUE
+Washington,WA,Jury Service Nondiscrimination Based on Gender Identity,TRUE
+Washington,WA,Gender Inclusive Correctional Housing ,FALSE
+Washington,WA,Gender Affirming Care in Correctional Facilities,FALSE
+Washington,WA,Trans Bathroom Ban K-12,0
+Washington,WA,Trans Bathroom Ban in Schools and Government Buildings,0
+Washington,WA,State Defines Sex,0
+Washington,WA,Broad ‘RFRA’,0
+Washington,WA,Religious Exemption for Child Welfare,0
+Washington,WA,Religious Exemption for Medical Professionals,0
+Washington,WA,Marriage Services and/or Marriage License Denial,0
+Washington,WA,Drag Ban,0
+Washington,WA,Don’t Say Gay,0
+Washington,WA,Specific Subject Restrictions,0
+Washington,WA,Parental Notification (opt-in or opt-out),0
+Washington,WA,Sports Ban,0
+Washington,WA,Forced Outing in Schools,0
+Washington,WA,Ban on Best Practice Medical Care for Trans Youth,0
+Washington,WA,Barriers to Identity Documents,0
+Washington,WA,Abortion Access,1
+Washington,WA,Interstate Abortion Shield Law,TRUE
+West Virginia,WV,Shield Law,FALSE
+West Virginia,WV,Gender Marker on ID (adult),0
+West Virginia,WV,Gender Marker on ID (minor),
+West Virginia,WV,Gender Marker options on ID,FALSE
+West Virginia,WV,Gender Marker on Birth Certificate (adult),1
+West Virginia,WV,Gender Marker on Birth Certificate (minor),1
+West Virginia,WV,Gender Marker options on Birth Certificate,FALSE
+West Virginia,WV,Name Change (adult),0
+West Virginia,WV,Name Change (minor),0
+West Virginia,WV,Non Discrimination,-1
+West Virginia,WV,Foster Care Non Discrimination,TRUE
+West Virginia,WV,Adoption Nondiscrimination,TRUE
+West Virginia,WV,Child Welfare Non Discrimination for LGBTQ Youth,TRUE
+West Virginia,WV,Recognition of assisted Reproduction,FALSE
+West Virginia,WV,VAP for Non-Genetic LGBTQ Parents,FALSE
+West Virginia,WV,Gender Inclusive Bathroom Laws (Adult),FALSE
+West Virginia,WV,Gender Inclusive Bathroom Laws (minor),FALSE
+West Virginia,WV,LGBTQ Inclusive Curriculum,FALSE
+West Virginia,WV,Anti-Bullying Legal Protections for TGNC* students,0.5
+West Virginia,WV,Non-discrimination  Protections for LGBTQ Students,0
+West Virginia,WV,Gay/ Trans Panic Defense Ban,FALSE
+West Virginia,WV,Hate Crime Laws Specific to Gender Identity,FALSE
+West Virginia,WV,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+West Virginia,WV,Gender Inclusive Correctional Housing ,FALSE
+West Virginia,WV,Gender Affirming Care in Correctional Facilities,FALSE
+West Virginia,WV,Trans Bathroom Ban K-12,0
+West Virginia,WV,Trans Bathroom Ban in Schools and Government Buildings,0
+West Virginia,WV,State Defines Sex,0
+West Virginia,WV,Broad ‘RFRA’,-1
+West Virginia,WV,Religious Exemption for Child Welfare,0
+West Virginia,WV,Religious Exemption for Medical Professionals,0
+West Virginia,WV,Marriage Services and/or Marriage License Denial,0
+West Virginia,WV,Drag Ban,0
+West Virginia,WV,Don’t Say Gay,0
+West Virginia,WV,Specific Subject Restrictions,0
+West Virginia,WV,Parental Notification (opt-in or opt-out),0
+West Virginia,WV,Sports Ban,-1
+West Virginia,WV,Forced Outing in Schools,0
+West Virginia,WV,Ban on Best Practice Medical Care for Trans Youth,-1
+West Virginia,WV,Barriers to Identity Documents,0
+West Virginia,WV,Abortion Access,-1
+West Virginia,WV,Interstate Abortion Shield Law,FALSE
+Wisconsin,WI,Shield Law,FALSE
+Wisconsin,WI,Gender Marker on ID (adult),0
+Wisconsin,WI,Gender Marker on ID (minor),
+Wisconsin,WI,Gender Marker options on ID,FALSE
+Wisconsin,WI,Gender Marker on Birth Certificate (adult),-1
+Wisconsin,WI,Gender Marker on Birth Certificate (minor),-1
+Wisconsin,WI,Gender Marker options on Birth Certificate,FALSE
+Wisconsin,WI,Name Change (adult),0.5
+Wisconsin,WI,Name Change (minor),0.5
+Wisconsin,WI,Non Discrimination,-1
+Wisconsin,WI,Foster Care Non Discrimination,FALSE
+Wisconsin,WI,Adoption Nondiscrimination,FALSE
+Wisconsin,WI,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Wisconsin,WI,Recognition of assisted Reproduction,FALSE
+Wisconsin,WI,VAP for Non-Genetic LGBTQ Parents,FALSE
+Wisconsin,WI,Gender Inclusive Bathroom Laws (Adult),FALSE
+Wisconsin,WI,Gender Inclusive Bathroom Laws (minor),FALSE
+Wisconsin,WI,LGBTQ Inclusive Curriculum,FALSE
+Wisconsin,WI,Anti-Bullying Legal Protections for TGNC* students,0
+Wisconsin,WI,Non-discrimination  Protections for LGBTQ Students,1
+Wisconsin,WI,Gay/ Trans Panic Defense Ban,FALSE
+Wisconsin,WI,Hate Crime Laws Specific to Gender Identity,FALSE
+Wisconsin,WI,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Wisconsin,WI,Gender Inclusive Correctional Housing ,FALSE
+Wisconsin,WI,Gender Affirming Care in Correctional Facilities,FALSE
+Wisconsin,WI,Trans Bathroom Ban K-12,0
+Wisconsin,WI,Trans Bathroom Ban in Schools and Government Buildings,0
+Wisconsin,WI,State Defines Sex,0
+Wisconsin,WI,Broad ‘RFRA’,0
+Wisconsin,WI,Religious Exemption for Child Welfare,0
+Wisconsin,WI,Religious Exemption for Medical Professionals,0
+Wisconsin,WI,Marriage Services and/or Marriage License Denial,0
+Wisconsin,WI,Drag Ban,0
+Wisconsin,WI,Don’t Say Gay,0
+Wisconsin,WI,Specific Subject Restrictions,0
+Wisconsin,WI,Parental Notification (opt-in or opt-out),0
+Wisconsin,WI,Sports Ban,0
+Wisconsin,WI,Forced Outing in Schools,0
+Wisconsin,WI,Ban on Best Practice Medical Care for Trans Youth,0
+Wisconsin,WI,Barriers to Identity Documents,0
+Wisconsin,WI,Abortion Access,-0.5
+Wisconsin,WI,Interstate Abortion Shield Law,FALSE
+Wyoming,WY,Shield Law,FALSE
+Wyoming,WY,Gender Marker on ID (adult),0.5
+Wyoming,WY,Gender Marker on ID (minor),
+Wyoming,WY,Gender Marker options on ID,FALSE
+Wyoming,WY,Gender Marker on Birth Certificate (adult),-1
+Wyoming,WY,Gender Marker on Birth Certificate (minor),-1
+Wyoming,WY,Gender Marker options on Birth Certificate,FALSE
+Wyoming,WY,Name Change (adult),-1
+Wyoming,WY,Name Change (minor),-1
+Wyoming,WY,Non Discrimination,-1
+Wyoming,WY,Foster Care Non Discrimination,FALSE
+Wyoming,WY,Adoption Nondiscrimination,FALSE
+Wyoming,WY,Child Welfare Non Discrimination for LGBTQ Youth,FALSE
+Wyoming,WY,Recognition of assisted Reproduction,TRUE
+Wyoming,WY,VAP for Non-Genetic LGBTQ Parents,FALSE
+Wyoming,WY,Gender Inclusive Bathroom Laws (Adult),FALSE
+Wyoming,WY,Gender Inclusive Bathroom Laws (minor),FALSE
+Wyoming,WY,LGBTQ Inclusive Curriculum,FALSE
+Wyoming,WY,Anti-Bullying Legal Protections for TGNC* students,0
+Wyoming,WY,Non-discrimination  Protections for LGBTQ Students,0
+Wyoming,WY,Gay/ Trans Panic Defense Ban,FALSE
+Wyoming,WY,Hate Crime Laws Specific to Gender Identity,FALSE
+Wyoming,WY,Jury Service Nondiscrimination Based on Gender Identity,FALSE
+Wyoming,WY,Gender Inclusive Correctional Housing ,FALSE
+Wyoming,WY,Gender Affirming Care in Correctional Facilities,FALSE
+Wyoming,WY,Trans Bathroom Ban K-12,0
+Wyoming,WY,Trans Bathroom Ban in Schools and Government Buildings,0
+Wyoming,WY,State Defines Sex,0
+Wyoming,WY,Broad ‘RFRA’,0
+Wyoming,WY,Religious Exemption for Child Welfare,0
+Wyoming,WY,Religious Exemption for Medical Professionals,0
+Wyoming,WY,Marriage Services and/or Marriage License Denial,0
+Wyoming,WY,Drag Ban,0
+Wyoming,WY,Don’t Say Gay,0
+Wyoming,WY,Specific Subject Restrictions,0
+Wyoming,WY,Parental Notification (opt-in or opt-out),0
+Wyoming,WY,Sports Ban,-1
+Wyoming,WY,Forced Outing in Schools,0
+Wyoming,WY,Ban on Best Practice Medical Care for Trans Youth,0
+Wyoming,WY,Barriers to Identity Documents,0
+Wyoming,WY,Abortion Access,-0.5
+Wyoming,WY,Interstate Abortion Shield Law,FALSE
+District of Columbia,DC,Shield Law,
+District of Columbia,DC,Gender Marker on ID (adult),
+District of Columbia,DC,Gender Marker on ID (minor),
+District of Columbia,DC,Gender Marker options on ID,
+District of Columbia,DC,Gender Marker on Birth Certificate (adult),
+District of Columbia,DC,Gender Marker on Birth Certificate (minor),
+District of Columbia,DC,Gender Marker options on Birth Certificate,
+District of Columbia,DC,Name Change (adult),
+District of Columbia,DC,Name Change (minor),
+District of Columbia,DC,Non Discrimination,
+District of Columbia,DC,Foster Care Non Discrimination,
+District of Columbia,DC,Adoption Nondiscrimination,
+District of Columbia,DC,Child Welfare Non Discrimination for LGBTQ Youth,
+District of Columbia,DC,Recognition of assisted Reproduction,
+District of Columbia,DC,VAP for Non-Genetic LGBTQ Parents,
+District of Columbia,DC,Gender Inclusive Bathroom Laws (Adult),
+District of Columbia,DC,Gender Inclusive Bathroom Laws (minor),
+District of Columbia,DC,LGBTQ Inclusive Curriculum,
+District of Columbia,DC,Anti-Bullying Legal Protections for TGNC* students,
+District of Columbia,DC,Non-discrimination  Protections for LGBTQ Students,
+District of Columbia,DC,Gay/ Trans Panic Defense Ban,
+District of Columbia,DC,Hate Crime Laws Specific to Gender Identity,
+District of Columbia,DC,Jury Service Nondiscrimination Based on Gender Identity,
+District of Columbia,DC,Gender Inclusive Correctional Housing ,
+District of Columbia,DC,Gender Affirming Care in Correctional Facilities,
+District of Columbia,DC,Trans Bathroom Ban K-12,
+District of Columbia,DC,Trans Bathroom Ban in Schools and Government Buildings,
+District of Columbia,DC,State Defines Sex,
+District of Columbia,DC,Broad ‘RFRA’,
+District of Columbia,DC,Religious Exemption for Child Welfare,
+District of Columbia,DC,Religious Exemption for Medical Professionals,
+District of Columbia,DC,Marriage Services and/or Marriage License Denial,
+District of Columbia,DC,Drag Ban,
+District of Columbia,DC,Don’t Say Gay,
+District of Columbia,DC,Specific Subject Restrictions,
+District of Columbia,DC,Parental Notification (opt-in or opt-out),
+District of Columbia,DC,Sports Ban,
+District of Columbia,DC,Forced Outing in Schools,
+District of Columbia,DC,Ban on Best Practice Medical Care for Trans Youth,
+District of Columbia,DC,Barriers to Identity Documents,
+District of Columbia,DC,Abortion Access,
+District of Columbia,DC,Interstate Abortion Shield Law,
+American Samoa,AS,Shield Law,
+American Samoa,AS,Gender Marker on ID (adult),
+American Samoa,AS,Gender Marker on ID (minor),
+American Samoa,AS,Gender Marker options on ID,
+American Samoa,AS,Gender Marker on Birth Certificate (adult),
+American Samoa,AS,Gender Marker on Birth Certificate (minor),
+American Samoa,AS,Gender Marker options on Birth Certificate,
+American Samoa,AS,Name Change (adult),
+American Samoa,AS,Name Change (minor),
+American Samoa,AS,Non Discrimination,
+American Samoa,AS,Foster Care Non Discrimination,
+American Samoa,AS,Adoption Nondiscrimination,
+American Samoa,AS,Child Welfare Non Discrimination for LGBTQ Youth,
+American Samoa,AS,Recognition of assisted Reproduction,
+American Samoa,AS,VAP for Non-Genetic LGBTQ Parents,
+American Samoa,AS,Gender Inclusive Bathroom Laws (Adult),
+American Samoa,AS,Gender Inclusive Bathroom Laws (minor),
+American Samoa,AS,LGBTQ Inclusive Curriculum,
+American Samoa,AS,Anti-Bullying Legal Protections for TGNC* students,
+American Samoa,AS,Non-discrimination  Protections for LGBTQ Students,
+American Samoa,AS,Gay/ Trans Panic Defense Ban,
+American Samoa,AS,Hate Crime Laws Specific to Gender Identity,
+American Samoa,AS,Jury Service Nondiscrimination Based on Gender Identity,
+American Samoa,AS,Gender Inclusive Correctional Housing ,
+American Samoa,AS,Gender Affirming Care in Correctional Facilities,
+American Samoa,AS,Trans Bathroom Ban K-12,
+American Samoa,AS,Trans Bathroom Ban in Schools and Government Buildings,
+American Samoa,AS,State Defines Sex,
+American Samoa,AS,Broad ‘RFRA’,
+American Samoa,AS,Religious Exemption for Child Welfare,
+American Samoa,AS,Religious Exemption for Medical Professionals,
+American Samoa,AS,Marriage Services and/or Marriage License Denial,
+American Samoa,AS,Drag Ban,
+American Samoa,AS,Don’t Say Gay,
+American Samoa,AS,Specific Subject Restrictions,
+American Samoa,AS,Parental Notification (opt-in or opt-out),
+American Samoa,AS,Sports Ban,
+American Samoa,AS,Forced Outing in Schools,
+American Samoa,AS,Ban on Best Practice Medical Care for Trans Youth,
+American Samoa,AS,Barriers to Identity Documents,
+American Samoa,AS,Abortion Access,
+American Samoa,AS,Interstate Abortion Shield Law,
+Guam,GU,Shield Law,
+Guam,GU,Gender Marker on ID (adult),
+Guam,GU,Gender Marker on ID (minor),
+Guam,GU,Gender Marker options on ID,
+Guam,GU,Gender Marker on Birth Certificate (adult),
+Guam,GU,Gender Marker on Birth Certificate (minor),
+Guam,GU,Gender Marker options on Birth Certificate,
+Guam,GU,Name Change (adult),
+Guam,GU,Name Change (minor),
+Guam,GU,Non Discrimination,
+Guam,GU,Foster Care Non Discrimination,
+Guam,GU,Adoption Nondiscrimination,
+Guam,GU,Child Welfare Non Discrimination for LGBTQ Youth,
+Guam,GU,Recognition of assisted Reproduction,
+Guam,GU,VAP for Non-Genetic LGBTQ Parents,
+Guam,GU,Gender Inclusive Bathroom Laws (Adult),
+Guam,GU,Gender Inclusive Bathroom Laws (minor),
+Guam,GU,LGBTQ Inclusive Curriculum,
+Guam,GU,Anti-Bullying Legal Protections for TGNC* students,
+Guam,GU,Non-discrimination  Protections for LGBTQ Students,
+Guam,GU,Gay/ Trans Panic Defense Ban,
+Guam,GU,Hate Crime Laws Specific to Gender Identity,
+Guam,GU,Jury Service Nondiscrimination Based on Gender Identity,
+Guam,GU,Gender Inclusive Correctional Housing ,
+Guam,GU,Gender Affirming Care in Correctional Facilities,
+Guam,GU,Trans Bathroom Ban K-12,
+Guam,GU,Trans Bathroom Ban in Schools and Government Buildings,
+Guam,GU,State Defines Sex,
+Guam,GU,Broad ‘RFRA’,
+Guam,GU,Religious Exemption for Child Welfare,
+Guam,GU,Religious Exemption for Medical Professionals,
+Guam,GU,Marriage Services and/or Marriage License Denial,
+Guam,GU,Drag Ban,
+Guam,GU,Don’t Say Gay,
+Guam,GU,Specific Subject Restrictions,
+Guam,GU,Parental Notification (opt-in or opt-out),
+Guam,GU,Sports Ban,
+Guam,GU,Forced Outing in Schools,
+Guam,GU,Ban on Best Practice Medical Care for Trans Youth,
+Guam,GU,Barriers to Identity Documents,
+Guam,GU,Abortion Access,
+Guam,GU,Interstate Abortion Shield Law,
+Northern Mariana Islands,MP,Shield Law,
+Northern Mariana Islands,MP,Gender Marker on ID (adult),
+Northern Mariana Islands,MP,Gender Marker on ID (minor),
+Northern Mariana Islands,MP,Gender Marker options on ID,
+Northern Mariana Islands,MP,Gender Marker on Birth Certificate (adult),
+Northern Mariana Islands,MP,Gender Marker on Birth Certificate (minor),
+Northern Mariana Islands,MP,Gender Marker options on Birth Certificate,
+Northern Mariana Islands,MP,Name Change (adult),
+Northern Mariana Islands,MP,Name Change (minor),
+Northern Mariana Islands,MP,Non Discrimination,
+Northern Mariana Islands,MP,Foster Care Non Discrimination,
+Northern Mariana Islands,MP,Adoption Nondiscrimination,
+Northern Mariana Islands,MP,Child Welfare Non Discrimination for LGBTQ Youth,
+Northern Mariana Islands,MP,Recognition of assisted Reproduction,
+Northern Mariana Islands,MP,VAP for Non-Genetic LGBTQ Parents,
+Northern Mariana Islands,MP,Gender Inclusive Bathroom Laws (Adult),
+Northern Mariana Islands,MP,Gender Inclusive Bathroom Laws (minor),
+Northern Mariana Islands,MP,LGBTQ Inclusive Curriculum,
+Northern Mariana Islands,MP,Anti-Bullying Legal Protections for TGNC* students,
+Northern Mariana Islands,MP,Non-discrimination  Protections for LGBTQ Students,
+Northern Mariana Islands,MP,Gay/ Trans Panic Defense Ban,
+Northern Mariana Islands,MP,Hate Crime Laws Specific to Gender Identity,
+Northern Mariana Islands,MP,Jury Service Nondiscrimination Based on Gender Identity,
+Northern Mariana Islands,MP,Gender Inclusive Correctional Housing ,
+Northern Mariana Islands,MP,Gender Affirming Care in Correctional Facilities,
+Northern Mariana Islands,MP,Trans Bathroom Ban K-12,
+Northern Mariana Islands,MP,Trans Bathroom Ban in Schools and Government Buildings,
+Northern Mariana Islands,MP,State Defines Sex,
+Northern Mariana Islands,MP,Broad ‘RFRA’,
+Northern Mariana Islands,MP,Religious Exemption for Child Welfare,
+Northern Mariana Islands,MP,Religious Exemption for Medical Professionals,
+Northern Mariana Islands,MP,Marriage Services and/or Marriage License Denial,
+Northern Mariana Islands,MP,Drag Ban,
+Northern Mariana Islands,MP,Don’t Say Gay,
+Northern Mariana Islands,MP,Specific Subject Restrictions,
+Northern Mariana Islands,MP,Parental Notification (opt-in or opt-out),
+Northern Mariana Islands,MP,Sports Ban,
+Northern Mariana Islands,MP,Forced Outing in Schools,
+Northern Mariana Islands,MP,Ban on Best Practice Medical Care for Trans Youth,
+Northern Mariana Islands,MP,Barriers to Identity Documents,
+Northern Mariana Islands,MP,Abortion Access,
+Northern Mariana Islands,MP,Interstate Abortion Shield Law,
+Puerto Rico,PR,Shield Law,
+Puerto Rico,PR,Gender Marker on ID (adult),
+Puerto Rico,PR,Gender Marker on ID (minor),
+Puerto Rico,PR,Gender Marker options on ID,
+Puerto Rico,PR,Gender Marker on Birth Certificate (adult),
+Puerto Rico,PR,Gender Marker on Birth Certificate (minor),
+Puerto Rico,PR,Gender Marker options on Birth Certificate,
+Puerto Rico,PR,Name Change (adult),
+Puerto Rico,PR,Name Change (minor),
+Puerto Rico,PR,Non Discrimination,
+Puerto Rico,PR,Foster Care Non Discrimination,
+Puerto Rico,PR,Adoption Nondiscrimination,
+Puerto Rico,PR,Child Welfare Non Discrimination for LGBTQ Youth,
+Puerto Rico,PR,Recognition of assisted Reproduction,
+Puerto Rico,PR,VAP for Non-Genetic LGBTQ Parents,
+Puerto Rico,PR,Gender Inclusive Bathroom Laws (Adult),
+Puerto Rico,PR,Gender Inclusive Bathroom Laws (minor),
+Puerto Rico,PR,LGBTQ Inclusive Curriculum,
+Puerto Rico,PR,Anti-Bullying Legal Protections for TGNC* students,
+Puerto Rico,PR,Non-discrimination  Protections for LGBTQ Students,
+Puerto Rico,PR,Gay/ Trans Panic Defense Ban,
+Puerto Rico,PR,Hate Crime Laws Specific to Gender Identity,
+Puerto Rico,PR,Jury Service Nondiscrimination Based on Gender Identity,
+Puerto Rico,PR,Gender Inclusive Correctional Housing ,
+Puerto Rico,PR,Gender Affirming Care in Correctional Facilities,
+Puerto Rico,PR,Trans Bathroom Ban K-12,
+Puerto Rico,PR,Trans Bathroom Ban in Schools and Government Buildings,
+Puerto Rico,PR,State Defines Sex,
+Puerto Rico,PR,Broad ‘RFRA’,
+Puerto Rico,PR,Religious Exemption for Child Welfare,
+Puerto Rico,PR,Religious Exemption for Medical Professionals,
+Puerto Rico,PR,Marriage Services and/or Marriage License Denial,
+Puerto Rico,PR,Drag Ban,
+Puerto Rico,PR,Don’t Say Gay,
+Puerto Rico,PR,Specific Subject Restrictions,
+Puerto Rico,PR,Parental Notification (opt-in or opt-out),
+Puerto Rico,PR,Sports Ban,
+Puerto Rico,PR,Forced Outing in Schools,
+Puerto Rico,PR,Ban on Best Practice Medical Care for Trans Youth,
+Puerto Rico,PR,Barriers to Identity Documents,
+Puerto Rico,PR,Abortion Access,
+Puerto Rico,PR,Interstate Abortion Shield Law,
+United States Minor Outlying Islands,UM,Shield Law,
+United States Minor Outlying Islands,UM,Gender Marker on ID (adult),
+United States Minor Outlying Islands,UM,Gender Marker on ID (minor),
+United States Minor Outlying Islands,UM,Gender Marker options on ID,
+United States Minor Outlying Islands,UM,Gender Marker on Birth Certificate (adult),
+United States Minor Outlying Islands,UM,Gender Marker on Birth Certificate (minor),
+United States Minor Outlying Islands,UM,Gender Marker options on Birth Certificate,
+United States Minor Outlying Islands,UM,Name Change (adult),
+United States Minor Outlying Islands,UM,Name Change (minor),
+United States Minor Outlying Islands,UM,Non Discrimination,
+United States Minor Outlying Islands,UM,Foster Care Non Discrimination,
+United States Minor Outlying Islands,UM,Adoption Nondiscrimination,
+United States Minor Outlying Islands,UM,Child Welfare Non Discrimination for LGBTQ Youth,
+United States Minor Outlying Islands,UM,Recognition of assisted Reproduction,
+United States Minor Outlying Islands,UM,VAP for Non-Genetic LGBTQ Parents,
+United States Minor Outlying Islands,UM,Gender Inclusive Bathroom Laws (Adult),
+United States Minor Outlying Islands,UM,Gender Inclusive Bathroom Laws (minor),
+United States Minor Outlying Islands,UM,LGBTQ Inclusive Curriculum,
+United States Minor Outlying Islands,UM,Anti-Bullying Legal Protections for TGNC* students,
+United States Minor Outlying Islands,UM,Non-discrimination  Protections for LGBTQ Students,
+United States Minor Outlying Islands,UM,Gay/ Trans Panic Defense Ban,
+United States Minor Outlying Islands,UM,Hate Crime Laws Specific to Gender Identity,
+United States Minor Outlying Islands,UM,Jury Service Nondiscrimination Based on Gender Identity,
+United States Minor Outlying Islands,UM,Gender Inclusive Correctional Housing ,
+United States Minor Outlying Islands,UM,Gender Affirming Care in Correctional Facilities,
+United States Minor Outlying Islands,UM,Trans Bathroom Ban K-12,
+United States Minor Outlying Islands,UM,Trans Bathroom Ban in Schools and Government Buildings,
+United States Minor Outlying Islands,UM,State Defines Sex,
+United States Minor Outlying Islands,UM,Broad ‘RFRA’,
+United States Minor Outlying Islands,UM,Religious Exemption for Child Welfare,
+United States Minor Outlying Islands,UM,Religious Exemption for Medical Professionals,
+United States Minor Outlying Islands,UM,Marriage Services and/or Marriage License Denial,
+United States Minor Outlying Islands,UM,Drag Ban,
+United States Minor Outlying Islands,UM,Don’t Say Gay,
+United States Minor Outlying Islands,UM,Specific Subject Restrictions,
+United States Minor Outlying Islands,UM,Parental Notification (opt-in or opt-out),
+United States Minor Outlying Islands,UM,Sports Ban,
+United States Minor Outlying Islands,UM,Forced Outing in Schools,
+United States Minor Outlying Islands,UM,Ban on Best Practice Medical Care for Trans Youth,
+United States Minor Outlying Islands,UM,Barriers to Identity Documents,
+United States Minor Outlying Islands,UM,Abortion Access,
+United States Minor Outlying Islands,UM,Interstate Abortion Shield Law,
+"Virgin Islands, U.S.",VI,Shield Law,
+"Virgin Islands, U.S.",VI,Gender Marker on ID (adult),
+"Virgin Islands, U.S.",VI,Gender Marker on ID (minor),
+"Virgin Islands, U.S.",VI,Gender Marker options on ID,
+"Virgin Islands, U.S.",VI,Gender Marker on Birth Certificate (adult),
+"Virgin Islands, U.S.",VI,Gender Marker on Birth Certificate (minor),
+"Virgin Islands, U.S.",VI,Gender Marker options on Birth Certificate,
+"Virgin Islands, U.S.",VI,Name Change (adult),
+"Virgin Islands, U.S.",VI,Name Change (minor),
+"Virgin Islands, U.S.",VI,Non Discrimination,
+"Virgin Islands, U.S.",VI,Foster Care Non Discrimination,
+"Virgin Islands, U.S.",VI,Adoption Nondiscrimination,
+"Virgin Islands, U.S.",VI,Child Welfare Non Discrimination for LGBTQ Youth,
+"Virgin Islands, U.S.",VI,Recognition of assisted Reproduction,
+"Virgin Islands, U.S.",VI,VAP for Non-Genetic LGBTQ Parents,
+"Virgin Islands, U.S.",VI,Gender Inclusive Bathroom Laws (Adult),
+"Virgin Islands, U.S.",VI,Gender Inclusive Bathroom Laws (minor),
+"Virgin Islands, U.S.",VI,LGBTQ Inclusive Curriculum,
+"Virgin Islands, U.S.",VI,Anti-Bullying Legal Protections for TGNC* students,
+"Virgin Islands, U.S.",VI,Non-discrimination  Protections for LGBTQ Students,
+"Virgin Islands, U.S.",VI,Gay/ Trans Panic Defense Ban,
+"Virgin Islands, U.S.",VI,Hate Crime Laws Specific to Gender Identity,
+"Virgin Islands, U.S.",VI,Jury Service Nondiscrimination Based on Gender Identity,
+"Virgin Islands, U.S.",VI,Gender Inclusive Correctional Housing ,
+"Virgin Islands, U.S.",VI,Gender Affirming Care in Correctional Facilities,
+"Virgin Islands, U.S.",VI,Trans Bathroom Ban K-12,
+"Virgin Islands, U.S.",VI,Trans Bathroom Ban in Schools and Government Buildings,
+"Virgin Islands, U.S.",VI,State Defines Sex,
+"Virgin Islands, U.S.",VI,Broad ‘RFRA’,
+"Virgin Islands, U.S.",VI,Religious Exemption for Child Welfare,
+"Virgin Islands, U.S.",VI,Religious Exemption for Medical Professionals,
+"Virgin Islands, U.S.",VI,Marriage Services and/or Marriage License Denial,
+"Virgin Islands, U.S.",VI,Drag Ban,
+"Virgin Islands, U.S.",VI,Don’t Say Gay,
+"Virgin Islands, U.S.",VI,Specific Subject Restrictions,
+"Virgin Islands, U.S.",VI,Parental Notification (opt-in or opt-out),
+"Virgin Islands, U.S.",VI,Sports Ban,
+"Virgin Islands, U.S.",VI,Forced Outing in Schools,
+"Virgin Islands, U.S.",VI,Ban on Best Practice Medical Care for Trans Youth,
+"Virgin Islands, U.S.",VI,Barriers to Identity Documents,
+"Virgin Islands, U.S.",VI,Abortion Access,
+"Virgin Islands, U.S.",VI,Interstate Abortion Shield Law,
