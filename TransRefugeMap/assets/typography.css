@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wdth,wght@75..125,100..900&display=swap')
+
+body .Select-value-label{
+    font-family: 'Encode Sans', sans serif !important;
+}
+
